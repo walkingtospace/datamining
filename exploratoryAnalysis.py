@@ -79,6 +79,6 @@ if __name__ == '__main__':
     tip_data = readData(root_address + tip)
 
     exploreUserData(user_data)
-    exploreUserData(checkin_data)
-    exploreUserData(review_data)
-    exploreUserData(tip_data)
+    exploreCheckinData(checkin_data)
+    exploreReviewData(review_data)
+    exploreTipData(tip_data)
