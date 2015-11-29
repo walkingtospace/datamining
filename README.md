@@ -1,5 +1,4 @@
 # Datamining
-## CSE 255 final project
 
 Prediction for hidden factors of Yelp Elite election
 
