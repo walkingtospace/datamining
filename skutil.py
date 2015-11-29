@@ -38,3 +38,27 @@ class IdentityVectorizer(BaseEstimator, TransformerMixin):
 		return self
 	def transform(self, data):
 		return [[d] for d in data]
+
+class UserReviews(BaseEstimator, TransformerMixin):
+	"""Wraps data values in a list."""
+	def __init__(self, userReviewMap):
+		self.userReviewMap = userReviewMap
+	def userReviews(self, user):
+		return self.userReviewMap[user['user_id']]
+	def fit(self, x, y=None):
+		return self
+	def transform(self, users):
+		return [self.userReviews(u) for u in users]
+
+class UserReviewText(BaseEstimator, TransformerMixin):
+	"""Wraps data values in a list."""
+	def __init__(self, userReviewMap):
+		self.userReviewMap = userReviewMap
+	def userReviews(self, user):
+		return self.userReviewMap[user['user_id']]
+	def concatReviewText(self, reviews):
+		return " ".join((r['text'] for r in reviews))
+	def fit(self, x, y=None):
+		return self
+	def transform(self, users):
+		return [self.concatReviewText(self.userReviews(u)) for u in users]
