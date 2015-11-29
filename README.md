@@ -5,7 +5,7 @@ Prediction for hidden factors of Yelp Elite election
 
 Model: 
 
-Feautures:
+## Feautures:
 
 ## 1. Review's quality
 
@@ -45,7 +45,7 @@ Feautures:
 
 -> The number of elite friends
 
-## 4. Locality (Honam)
+## 4. Locality 
 
 Assumption : If a user who wanna be a elite has short user distance from the local elites, he/she would have more chance to be elected. (people should get a good peer-review score from the local community to be a elite)
 
