@@ -1,0 +1,62 @@
+For Correlation
+Feautures:
+
+1. Review Text's quality
+
+-> the average length of reviews
+
+-> the number of words in review
+
+-> TFIDF (?) -> show word cloud graph
+
+
+-> the average length of tips
+
+-> the average number of words in tips
+
+
+2. User's Quality
+
+-> number of total votes
+    -> cool funny useful
+    -> also ratio
+
+-> average of deviation of rating
+
+-> average of absolute deviation of rating
+
+-> Total Review Count
+
+-> total tip count
+
+-> average star rating
+
+-> number of friends
+ -> number of elite friends
+ 
+-> number of fans
+
+-> number of total tip likes
+
+-> average of tip likes
+
+-> number of compliements
+
+ 
+ 
+ ---------------- TBD
+
+3. Social activity
+
+-> the hub/authenticity weight by social graph analysis
+
+
+4. Locality
+
+Assumption : If a user who wanna be a elite has short user distance from the local elites, he/she would have more chance to be elected. (people should get a good peer-review score from the local community to be a elite)
+
+-> How many tips/reviews he has written about the local restaurant?
+
+-> Similarity with the local elites
+
+-> How many friends are the local elites?
