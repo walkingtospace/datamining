@@ -1,6 +1,4 @@
-# Datamining
-
-Prediction for hidden factors of Yelp Elite election
+# Prediction for hidden factors of Yelp Elite election
 
 Model: 
 
