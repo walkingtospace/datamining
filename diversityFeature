@@ -1,0 +1,64 @@
+
+def HasEverBeenElite(u):
+    if len(u['elite']) > 0:
+        return 1.0
+    return 0.0
+    
+def InsertCategoriesToDict(d, cats):
+    for c in cats:
+        if c not in d:
+            d[c] = 0
+        d[c] += 1
+        
+UsersCategoriesDict = {}
+UsersCategoriesDictSorted = {}
+UsersCategoriesDictSortedList = {}
+for r in reviews:
+    bid = r['business_id']
+    uid = r['user_id']
+    bcats = businessDict[bid]['categories']
+    if uid not in UsersCategoriesDict:
+        UsersCategoriesDict[uid] = {}
+    InsertCategoriesToDict(UsersCategoriesDict[uid], bcats)
+
+for k, v in UsersCategoriesDict.iteritems():
+    s = sum(v.values())
+    for k1,v1 in v.iteritems():
+        v[k1] = v1 * 1.0/s
+    a = sorted(v.items(), key=operator.itemgetter(1))
+    a.reverse()
+    b = {}
+    for aa in a:
+        b[aa[0]] = aa[1]
+    UsersCategoriesDictSorted[k] = b
+    UsersCategoriesDictSortedList[k] = a
+    
+#highest category ratio : -0.117915610032
+def diversity1(u):
+    userId = u['user_id']
+    cats = UsersCategoriesDictSortedList[userId]
+    if len(cats) > 0:
+        return cats[0][1]
+    else:
+        return 0
+        
+#number of categories reviewed: 0.294702301263        
+def diversity2(u):
+    userId = u['user_id']
+    return len(UsersCategoriesDictSortedList[userId]):
+    
+#range: 0.156461780783
+def diversity3(u):
+    userId = u['user_id']
+    cats = UsersCategoriesDictSortedList[userId]
+    if len(cats) > 0:
+      return return cats[0][1] - cats[len(cats) - 1][1]
+    else:
+      return 0
+        
+X = [diversity1(u) for u in users]
+y = [HasEverBeenElite(u) for u in users]
+    
+pc = np.corrcoef(X, y)
+print pc[0][1]
+
