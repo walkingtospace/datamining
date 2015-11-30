@@ -1,0 +1,66 @@
+
+
+Title
+
+Abstract
+
+1. Introduction
+  talk about yelp elite. why are we doing this? 
+      secret. elusive yelp elite club
+      Yelp Elites -> 
+      "Authenticity, Contribution, and Connection"
+      
+      people apply for elite without knowing exact criteria. (only vague outlines)
+      yelp doesn't want people to know. we are going to study correlations and find the hidden criteria.
+      
+4. Other literature / previous work
+  no explicit on this particular task
+  this dataset is from Yelp Challenge.
+  what other similar datasets have been studied in the past and how? (finding java experts among java forums)
+  finding experts among social graph (in academia) e.g. (TF) (graph)
+  TFIDF in text mining
+      
+2. Exploratory Analysis
+     dataset is from Yelp Challenge. 
+    
+    structure of the data. review, users, tips (checkin business not used)
+    which cities dataset come 
+    How many data points htis have (users, reviews)
+    Some statistic stuff (studying the dataset) graphs
+    
+    
+3.  Predictive Task
+
+     What are we trying to predict? 
+     Is this user an elite or not (given complete history in the dataset)?
+     definition of elite = ever been an elite
+     
+     initial features -> using out intution
+     Correlation analysis (table)
+     
+     
+3-5. Our Model
+   final model: 
+    Why are we using this model?: This is classification task -> Logistic Regression / SVM / Naive Bayes / RF(?)
+    TOo many features model really slow.
+    perforamnce of the model. f1 score.
+    TFIDF very slow -> 1000 terms (total number of terms a lot larger)
+    
+    unsuccesful attempts (if you use partition by year, than you would have to take outu a lot features due to no 
+    time information in friendship date, fan date etc, compliment date etc, we lack timestamp on social data which we found 
+    useful in our correltion analysis?)
+    
+    F1 score. strength/weakness - 
+    
+    compare corrleation analysis result what the model thinsks is important (lr.coeff_ or svm.coeff_, naive bayes_coef)
+    we can talk about unexpected /expected
+    more features: terms, word cloud, geo spatial
+    
+    does review quality matter more? or social feature matter more?
+
+5.Conclusion
+  In our study, a model of treu f1 score of 0.96 was developed through SVM. Most important features were ____. It seems that
+  leveraging on ____ ____ will help users to become elite for the upcoming year.
+  
+  
+     
