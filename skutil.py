@@ -62,3 +62,12 @@ class UserReviewText(BaseEstimator, TransformerMixin):
 		return self
 	def transform(self, users):
 		return [self.concatReviewText(self.userReviews(u)) for u in users]
+    
+class UserEliteFriends(BaseEstimator, TransformerMixin):
+	"""Wraps data values in a list."""
+	def __init__(self, localEliteFriends):
+		self.localEliteFriends = localEliteFriends
+	def fit(self, x, y=None):
+		return self
+	def transform(self, users):
+		return [self.localEliteFriends[u['user_id']] for u in users]

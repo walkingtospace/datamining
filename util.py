@@ -1,5 +1,8 @@
 import itertools
 import networkx as nx
+from collections import defaultdict
+from collections import Counter
+from scipy.cluster.vq import kmeans2, whiten
 
 def isElite(user):
 	"""True if user has ever been elite."""
@@ -34,3 +37,50 @@ def graphUsers(users, attrs=['elite', 'review_count', 'type', 'compliments', 'vo
 		for a in attrs:
 			g.node[userID][a] = u[a]
 	return g
+
+def mostCommon(lst):
+    data = Counter(lst)
+    return data.most_common(1)[0][0]
+
+def getKmeans(reviews, businesses):
+    geo_data = []
+
+    for review in reviews:
+        business_id = review['business_id']
+        lat = businesses[business_id]['latitude']
+        lon = businesses[business_id]['longitude']
+
+        geo_data.append([lat, lon])
+    centroid, label = kmeans2(whiten(geo_data), 10, iter = 30) # clustering into 10 groups
+    
+    return centroid, label
+
+def getLocalEliteFriends(reviews, users, label):
+    user_group = defaultdict(list)
+    elite_friends = defaultdict(list)
+    idx = 0
+    
+    for review in reviews:
+        user_id = review['user_id']
+        group_num = label[idx]
+        user_group[user_id].append(group_num)
+
+        idx += 1
+
+    for user_id in user_group:
+        user_group[user_id] = mostCommon(user_group[user_id])
+
+    for user_id in users:
+        friends = users[user_id]['friends']
+
+        same_group_cnt = 0
+        for friend_id in friends:
+            if friend_id not in user_group:
+                print("none existing user" + friend_id)
+                continue
+
+            if user_group[friend_id] == user_group[user_id]:
+                same_group_cnt += 1
+        elite_friends[user_id] = same_group_cnt
+        
+    return elite_friends
