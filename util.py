@@ -51,7 +51,7 @@ def getKmeans(reviews, businesses):
         lon = businesses[business_id]['longitude']
 
         geo_data.append([lat, lon])
-    centroid, label = kmeans2(whiten(geo_data), 10, iter = 30) # clustering into 10 groups
+    centroid, label = kmeans2(whiten(geo_data), 10, iter = 50, minit='points') # clustering into 10 groups
     
     return centroid, label
 
