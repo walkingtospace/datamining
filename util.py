@@ -34,6 +34,12 @@ def mapReviewsByUsers(reviews):
 	sr = sorted(reviews, key=lambda r: (r['user_id'], r['date']))
 	return {k: list(v) for k, v in itertools.groupby(sr, key=lambda r: r['user_id'])}
 
+def mapTipsByUser(tips):
+	"""Returns a map of list where keys are users and values
+	are list of reviews made by that user."""
+	st = sorted(tips, key=lambda t: (t['user_id'], t['date']))
+	return {k: list(v) for k, v in itertools.groupby(st, key=lambda t: t['user_id'])}
+
 def graphUsers(users, attrs=['elite', 'review_count', 'type', 'compliments', 'votes', 'yelping_since']):
 	"""Graph users by friends."""
 	g = nx.Graph()
