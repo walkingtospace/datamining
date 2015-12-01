@@ -55,6 +55,19 @@ def diversity3(u):
       return return cats[0][1] - cats[len(cats) - 1][1]
     else:
       return 0
+      
+def trueDiv(u):
+    q = 2
+    userId = u['user_id']
+    # variance
+    cats = UsersCategoriesDictSortedList[userId]
+    lam = 0
+    if len(cats) > 0:
+        for c in cats:
+            lam += math.pow(c[1]*1.0, q)
+
+        return lam ** (1.0/(1.0-q))
+    return 0
         
 X = [diversity1(u) for u in users]
 y = [HasEverBeenElite(u) for u in users]
