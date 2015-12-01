@@ -5,8 +5,9 @@ from collections import Counter
 from scipy.cluster.vq import kmeans2, whiten
 import numpy as np
 
-"""X = [tempFeat(u) for u in users]"""
+
 def getPearsonCorrelation(userId, X):
+    """X in the format; X = [tempFeat(u) for u in users]"""
     y = [isElite(u) for u in users] 
     pc = np.corrcoef(X, y)
     print pc[0][1]
