@@ -8,7 +8,7 @@
 "category/Yelp Events"	0.667764595618
 "category/Gastroenterologist"	0.599842353314
 "cities/South Queensferry"	0.591630749002
-"cities/Île des Soeurs"	0.517538197214
+"cities/ÃŽle des Soeurs"	0.517538197214
 "cities/Chomedey"	0.517211877595
 "cities/South Las Vegas"	0.488028800029
 "cities/Banksville"	0.483654449417
@@ -30,7 +30,7 @@
 "category/Paddleboarding"	0.413853033034
 "category/Massage Schools"	0.413339545854
 "cities/Water of Leith"	0.411195762182
-"cities/Communauté-Urbaine-de-Montréal"	0.405824050556
+"cities/CommunautÃ©-Urbaine-de-MontrÃ©al"	0.405824050556
 "cities/Newberry Springs"	0.40091678772
 "category/Swimming Lessons/Schools"	0.395433989792
 "cities/Henderson, NV 89074"	0.39167241519
@@ -49,7 +49,7 @@
 "category/Beer Gardens"	0.340409513559
 "cities/Whitehall"	0.340334671512
 "category/Egyptian"	0.337632041478
-"cities/Montréal-Nord"	0.337136061072
+"cities/MontrÃ©al-Nord"	0.337136061072
 "category/University Housing"	0.335822922007
 "category/Cafeteria"	0.331043023538
 "cities/N. Las Vegas"	0.330621809043
@@ -76,13 +76,13 @@
 "category/Face Painting"	0.290443640408
 "category/Plus Size Fashion"	0.289359436744
 "cities/Lasalle"	0.287496763464
-"cities/Montéal"	0.283414433433
+"cities/MontÃ©al"	0.283414433433
 "category/Cycling Classes"	0.280885649912
 "cities/De Forest"	0.280738987226
 "cities/Stutensee"	0.278781132221
 "category/International"	0.276408205095
 "category/Prosthetics"	0.276216777482
-"cities/L'Île-des-Soeurs"	0.274257980607
+"cities/L'ÃŽle-des-Soeurs"	0.274257980607
 "cities/Loanhead"	0.273883164244
 "category/Cosmetology Schools"	0.27304025566
 "cities/Youngtown"	0.271979657776
@@ -282,7 +282,7 @@
 "category/Farmers Market"	0.0930654576926
 "category/Car Dealers"	0.0928941746859
 "category/Festivals"	0.0928777447103
-"cities/Montréal-Ouest"	0.0927676190308
+"cities/MontrÃ©al-Ouest"	0.0927676190308
 "cities/Tortilla Flat"	0.0923184936741
 "category/Mailbox Centers"	0.0919847555534
 "category/Pilates"	0.0919534046716
@@ -354,7 +354,7 @@
 "cities/Outremont"	0.0627785937077
 "category/RV Dealers"	0.0625270077879
 "cities/Sun Prairie"	0.062146086705
-"cities/Montréal"	0.062122501884
+"cities/MontrÃ©al"	0.062122501884
 "category/Organic Stores"	0.062100996835
 "cities/San Tan Valley"	0.061928868042
 "category/Malaysian"	0.0616224256262
@@ -538,7 +538,7 @@
 "category/Cheese Shops"	0.0175910380215
 "category/Amusement Parks"	0.0174857835006
 "category/Japanese"	0.0172746554193
-"numReviews/4 Star"	0.0171062402158
+"numReviews/4stars"	0.0171062402158
 "category/Chiropractors"	0.0161737448526
 "category/German"	0.0158279358847
 "category/Pizza"	0.0158014045982
@@ -578,7 +578,7 @@
 "category/Community Service/Non-Profit"	0.00635488098182
 "category/Antiques"	0.00593990330637
 "category/Sports Bars"	0.00554146017703
-"numReviews/5 Star"	0.00524185980467
+"numReviews/5stars"	0.00524185980467
 "cities/Squirrel Hill"	0.00515572339489
 "category/Used, Vintage & Consignment"	0.00492732415004
 "category/Soccer"	0.00442245551954
@@ -586,7 +586,7 @@
 "cities/Tempe"	0.00353447323384
 "category/Vegetarian"	0.00324789219556
 "numReviews"	0.00307870777143
-"numReviews/3 Star"	0.00282716881718
+"numReviews/3stars"	0.00282716881718
 "cities/Terrebonne"	0.00281887254483
 "category/Caterers"	0.00264822283884
 "category/Diners"	0.00263466949183
@@ -701,7 +701,7 @@
 "numEliteFriends"	-0.00325383348717
 "category/Bike Rentals"	-0.00327518364429
 "category/Financial Services"	-0.00375389236713
-"numReviews/2 Star"	-0.00376005203785
+"numReviews/2stars"	-0.00376005203785
 "category/Wineries"	-0.00376770062462
 "category/Thai"	-0.00386164261347
 "category/Surgeons"	-0.00445004964449
@@ -791,7 +791,7 @@
 "fansFriendsRatio"	-0.0234071241431
 "cities/Inverkeithing"	-0.0243308213445
 "category/Matchmakers"	-0.0252703561014
-"numReviews/1 Star"	-0.0274588240749
+"numReviews/1stars"	-0.0274588240749
 "category/Endodontists"	-0.027541984064
 "category/Donuts"	-0.0278519617596
 "category/Sports Clubs"	-0.0281843945115
@@ -835,14 +835,14 @@
 "category/Swimming Pools"	-0.0453093668815
 "cities/Victoria Park"	-0.0458229855024
 "category/Contractors"	-0.045970786764
-"cities/Wörth am Rhein"	-0.0461295081892
+"cities/WÃ¶rth am Rhein"	-0.0461295081892
 "category/Golf"	-0.0468568239485
 "category/Funeral Services & Cemeteries"	-0.0472058866212
 "cities/Deforest"	-0.0480663499041
 "cities/Peoria"	-0.0488146129822
 "cities/Dormont"	-0.0488431891427
 "category/Eyewear & Opticians"	-0.0488513486416
-"cities/L'Île-Bizard"	-0.0493717774347
+"cities/L'ÃŽle-Bizard"	-0.0493717774347
 "category/Automotive"	-0.0494701488824
 "category/Bartending Schools"	-0.0502220724902
 "cities/Karlsbad"	-0.0505028000859
@@ -969,7 +969,7 @@
 "cities/Cultural District"	-0.11218210567
 "cities/Arcadia"	-0.11361125328
 "category/Cosmetic Dentists"	-0.113857052802
-"cities/Rosemère"	-0.114336474076
+"cities/RosemÃ¨re"	-0.114336474076
 "category/Dominican"	-0.114336754014
 "cities/Bapchule"	-0.114968140588
 "cities/Sun City"	-0.115559824002
@@ -1102,7 +1102,7 @@
 "category/Maternity Wear"	-0.243295192379
 "category/Masonry/Concrete"	-0.243749762487
 "category/Occupational Therapy"	-0.252384551705
-"cities/Sainte-Thérèse"	-0.253771495122
+"cities/Sainte-ThÃ©rÃ¨se"	-0.253771495122
 "cities/Tonopah"	-0.25493598025
 "category/Investing"	-0.255956331
 "cities/McKeesport"	-0.261476924138

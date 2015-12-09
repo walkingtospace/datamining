@@ -10,7 +10,7 @@ def getPearsonCorrelation(userId, X):
     """X in the format; X = [tempFeat(u) for u in users]"""
     y = [isElite(u) for u in users] 
     pc = np.corrcoef(X, y)
-    print pc[0][1]
+    return pc[0][1]
     
 def isElite(user):
 	"""True if user has ever been elite."""

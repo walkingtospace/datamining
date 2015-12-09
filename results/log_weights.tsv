@@ -1,1203 +1,1204 @@
-"eliteFriendsRatio"	2.74763300739
-"complimentsFansRatio/writer"	0.603735171584
-"complimentsFansRatio/more"	0.397190204963
-"complimentsFansRatio/hot"	0.25601314671
-"category/Burgers"	0.163846627673
-"category/Beer, Wine & Spirits"	0.159205505001
-"category/Airports"	0.157184519378
-"fans"	0.156796882763
-"category/Buffets"	0.14995496998
-"category/Breweries"	0.141366784524
-"category/Lounges"	0.126026601537
-"category/Dance Clubs"	0.124952979571
-"category/American (New)"	0.119784086408
-"category/Grocery"	0.118561697857
-"category/Bagels"	0.113553433956
-"category/Day Spas"	0.113264293162
-"category/Pubs"	0.111643391351
-"category/Cinema"	0.108994412691
-"complimentsFansRatio/cool"	0.107471131436
-"category/Gastropubs"	0.103845945065
-"category/Salad"	0.100132949918
-"category/Steakhouses"	0.0952858813521
-"category/Irish"	0.0911938591775
-"category/Sandwiches"	0.0909198215199
-"category/Food Trucks"	0.0905894370112
-"category/Wine Bars"	0.0892707411832
-"category/Caribbean"	0.0784165651979
-"category/American (Traditional)"	0.0760183095713
-"category/Hot Dogs"	0.073861220165
-"category/Mexican"	0.0735601263232
-"category/Music Venues"	0.0720407401514
-"category/Farmers Market"	0.0702606274289
-"cities/Montreal"	0.0697106715733
-"category/Latin American"	0.0694293209609
-"complimentsFansRatio/list"	0.0679353221125
-"category/Southern"	0.0663949810154
-"category/Gluten-Free"	0.0648945496854
-"category/Stadiums & Arenas"	0.0639811529335
-"category/Cafes"	0.0618343021772
-"category/Food Delivery Services"	0.0607548016902
-"category/Breakfast & Brunch"	0.0601707729992
-"cities/Montréal"	0.0599660209102
-"category/Ice Cream & Frozen Yogurt"	0.0598924571312
-"complimentsFansRatio/note"	0.0594910955417
-"category/Tapas/Small Plates"	0.059337403754
-"category/Mongolian"	0.0581457449929
-"category/French"	0.0578495008682
-"category/Convenience Stores"	0.0577137468752
-"category/Vegan"	0.0562804236373
-"category/Yelp Events"	0.0557881920974
-"category/Juice Bars & Smoothies"	0.0544970722983
-"category/Desserts"	0.0540146063429
-"category/Fast Food"	0.052292162507
-"category/Canadian (New)"	0.0519131765901
-"category/Creperies"	0.0512327330598
-"category/Veterinarians"	0.0491654481492
-"category/Festivals"	0.0485580489884
-"cities/Champaign"	0.0474160826038
-"category/Vegetarian"	0.0469522515833
-"category/Dive Bars"	0.0468810075537
-"category/Urgent Care"	0.0466270338938
-"category/Street Vendors"	0.0458499217798
-"category/Climbing"	0.0455999013747
-"category/Parks"	0.0448226962076
-"category/Home Decor"	0.0436585160036
-"category/Cupcakes"	0.0434866187668
-"category/Art Galleries"	0.0433264454385
-"category/Dog Parks"	0.0428971217843
-"category/Spanish"	0.042650146122
-"category/Arts & Entertainment"	0.0424415907206
-"category/Coffee & Tea"	0.0419687120138
-"category/Yoga"	0.0408627841097
-"category/Poutineries"	0.04071328094
-"numReviewsYear/2015"	0.0400126789714
-"category/Animal Shelters"	0.0389812031523
-"category/Wholesale Stores"	0.0389542710811
-"category/Japanese"	0.0389424404596
-"category/Tea Rooms"	0.0372064415856
-"category/Bubble Tea"	0.035813902438
-"category/Party & Event Planning"	0.0352405809116
-"category/Jazz & Blues"	0.0348179763628
-"category/Car Wash"	0.0346743417592
-"category/Food Stands"	0.0340158580683
-"category/Mini Golf"	0.0310007155078
-"category/Wedding Planning"	0.0309664011136
-"category/Gay Bars"	0.0307413470807
-"category/Arcades"	0.0306993312773
-"category/Oil Change Stations"	0.0306423040562
-"cities/Laval"	0.0296076598923
-"category/Champagne Bars"	0.0291594455676
-"numReviews/4 Star"	0.0288181133084
-"category/Taiwanese"	0.0280681613679
-"cities/Madison"	0.0275782090769
-"category/Furniture Stores"	0.0270596889877
-"numCategories"	0.0268235308702
-"category/Gelato"	0.0264652729661
-"yelpingYear/2005"	0.0263646589818
-"cities/Waterloo"	0.0263043258969
-"category/Hotels"	0.0255918089413
-"category/Do-It-Yourself Food"	0.0251543140847
-"category/Piercing"	0.0251083464627
-"category/Shaved Ice"	0.0249350257243
-"category/Bikes"	0.0245899157273
-"category/Zoos"	0.02442499537
-"category/Health Markets"	0.023848403048
-"category/Cosmetology Schools"	0.0237343453591
-"category/Performing Arts"	0.0233426704249
-"category/Specialty Schools"	0.0222470695158
-"category/Mobile Phones"	0.0218869548482
-"votesReviewsRatio/cool"	0.0215035720273
-"category/Bowling"	0.0211687256069
-"category/Hiking"	0.0211543511973
-"category/British"	0.0210203025168
-"category/Gyms"	0.0205074171742
-"category/Bakeries"	0.0204576750205
-"category/Tobacco Shops"	0.0201291798328
-"category/Irish Pub"	0.0200105699472
-"category/Medical Centers"	0.0196610825374
-"category/Hotels & Travel"	0.0187718847683
-"cities/Paradise Valley"	0.0187418322215
-"category/Trainers"	0.0186491247148
-"category/Pizza"	0.0184957551659
-"cities/Pointe-Claire"	0.0174340968131
-"category/Drugstores"	0.0173755456469
-"category/Apartments"	0.0172523698259
-"category/Bike Repair/Maintenance"	0.0172055647262
-"category/Specialty Food"	0.0170959757761
-"category/Soup"	0.017008204727
-"cities/Urbana"	0.0165657139902
-"category/Tattoo"	0.0159627110257
-"category/Brewing Supplies"	0.0158903190484
-"category/Pediatricians"	0.0158512393081
-"category/General Dentistry"	0.0158183917918
-"cities/West Mifflin"	0.0158137068737
-"category/Fitness & Instruction"	0.0157790736449
-"category/Arts & Crafts"	0.015759042065
-"category/Hawaiian"	0.015685567727
-"category/Orthodontists"	0.0156338125993
-"category/Rafting/Kayaking"	0.0155448624808
-"category/Makeup Artists"	0.0155281527198
-"category/Amusement Parks"	0.0153843411989
-"cities/Cave Creek"	0.0152305490831
-"category/Comedy Clubs"	0.0151919416649
-"category/Airport Lounges"	0.0151172128376
-"category/Shopping Centers"	0.0150656251566
-"category/Tex-Mex"	0.0149123033246
-"category/Playgrounds"	0.0147942375307
-"category/Education"	0.0145168865778
-"category/Dance Studios"	0.0144776493627
-"category/Pet Stores"	0.0141473880006
-"cities/Brossard"	0.0140819321506
-"category/Nightlife"	0.0139629549787
-"category/Banks & Credit Unions"	0.0138149591021
-"cities/Clark County"	0.0136302821945
-"category/Bike Rentals"	0.0132926586962
-"category/Parking"	0.0132832005829
-"cities/Lasalle"	0.0127635440024
-"cities/Dorval"	0.0127332278271
-"category/Electronics"	0.0126841144922
-"numReviews"	0.0126372078699
-"category/Piano Bars"	0.0126336161151
-"category/Sewing & Alterations"	0.0125713542896
-"category/Rock Climbing"	0.0124667743246
-"category/Ethiopian"	0.012454603199
-"category/Fruits & Veggies"	0.0123787809674
-"category/Signmaking"	0.0123368339727
-"category/Books, Mags, Music & Video"	0.011862878705
-"category/Aquariums"	0.0113233714584
-"category/Cafeteria"	0.0109976072713
-"category/Pool Halls"	0.0108519616875
-"cities/Île des Soeurs"	0.0107438592375
-"category/Cooking Schools"	0.0105459524338
-"category/Self Storage"	0.0104953839689
-"category/Obstetricians & Gynecologists"	0.0104561775028
-"category/Fabric Stores"	0.0104127530538
-"cities/Homestead"	0.0103559214248
-"category/Dentists"	0.010173379891
-"cities/N. Las Vegas"	0.0101613442918
-"category/Pet Boarding/Pet Sitting"	0.0100883692066
-"category/Cycling Classes"	0.00999130363899
-"category/Asian Fusion"	0.00995885584854
-"cities/Outremont"	0.00967639495338
-"category/Boot Camps"	0.00961974456316
-"category/Pet Adoption"	0.0095626181431
-"category/Opera & Ballet"	0.00943720344438
-"category/Screen Printing/T-Shirt Printing"	0.00934279816379
-"category/Cocktail Bars"	0.00928105829276
-"category/Szechuan"	0.00923809345119
-"cities/Munhall"	0.00918107098993
-"category/Home & Garden"	0.00907865560211
-"cities/Verdun"	0.00879012918599
-"category/Oral Surgeons"	0.00873556633422
-"category/Cambodian"	0.00851501623886
-"category/Middle Schools & High Schools"	0.00833825878359
-"cities/Gold Canyon"	0.00793989847082
-"category/Hair Removal"	0.00776086439891
-"category/Barre Classes"	0.00767970940778
-"category/Beer Bar"	0.00767581921499
-"category/Bridal"	0.00750058922856
-"category/Elementary Schools"	0.00749851792565
-"category/Electricians"	0.00748596696333
-"category/Mountain Biking"	0.00747965479374
-"cities/Sun Prairie"	0.00747307054054
-"category/Burmese"	0.0073870452017
-"category/General Litigation"	0.00732243759901
-"cities/Le Sud-Ouest"	0.00727337401145
-"category/Kitchen & Bath"	0.00716611893736
-"category/Caterers"	0.00711444589166
-"category/Massage Schools"	0.0070127878784
-"category/Formal Wear"	0.0069949466202
-"category/Outlet Stores"	0.00699237665303
-"category/Pilates"	0.0069507446055
-"category/Kids Activities"	0.00691363380557
-"category/Used, Vintage & Consignment"	0.00672427245032
-"category/Art Classes"	0.00670299566081
-"cities/Mesa "	0.00662818282285
-"category/Modern European"	0.00659162247816
-"category/Salvadoran"	0.00656844921906
-"cities/Nellis AFB"	0.00652875117332
-"cities/West Homestead"	0.00645684791917
-"category/Hair Salons"	0.00631748783693
-"category/Vietnamese"	0.00628230261421
-"category/Flea Markets"	0.00626540821249
-"category/Hot Tub & Pool"	0.00622899550459
-"category/Baby Gear & Furniture"	0.00620087881013
-"category/Pet Training"	0.00613480708159
-"category/Mortgage Brokers"	0.00604853075417
-"category/Spray Tanning"	0.00588412603522
-"cities/Lachine"	0.00583522196099
-"yelpingYear/2004"	0.00580409381276
-"category/Laotian"	0.00577384671793
-"category/Bartenders"	0.00573550848862
-"category/Swimming Lessons/Schools"	0.00571924095512
-"category/Sports Bars"	0.00570608497982
-"cities/Sedona"	0.00556335522878
-"cities/Black Canyon City"	0.00555444790698
-"cities/Lower Lawrenceville"	0.00551531222119
-"category/Periodontists"	0.0054609609323
-"cities/Pittsburgh/Waterfront"	0.00538134378133
-"category/Skating Rinks"	0.00525122516151
-"category/Weight Loss Centers"	0.00523138492864
-"cities/Goldfield"	0.0052267056611
-"category/Boat Charters"	0.0052155859924
-"category/Antiques"	0.00519762898238
-"category/Butcher"	0.00519370663705
-"category/Distilleries"	0.00515548500425
-"cities/Bellevue"	0.00510011248343
-"category/Magicians"	0.00507260295094
-"cities/Ahwatukee"	0.00504821435887
-"cities/Kirkland"	0.00502850187969
-"cities/N Las Vegas"	0.00499048835863
-"category/Internet Service Providers"	0.00490831123897
-"category/Optometrists"	0.00489065332347
-"cities/Huntersville"	0.0048735631515
-"category/Live/Raw Food"	0.00473730550927
-"category/Diners"	0.00471210177444
-"cities/Saint-Laurent"	0.00461890077632
-"category/Uniforms"	0.00460098433575
-"cities/Chomedey"	0.00459508965428
-"cities/Montéal"	0.00459031498494
-"cities/Waddell"	0.0045806157038
-"category/Tanning"	0.004546083321
-"category/Australian"	0.00449802594541
-"category/Karaoke"	0.00444151008792
-"category/Belgian"	0.00430057163013
-"category/Cheese Shops"	0.00423543548259
-"cities/Casa Grande"	0.00422607335344
-"category/Gastroenterologist"	0.00422057696518
-"category/Bankruptcy Law"	0.00421540230956
-"cities/Swissvale"	0.00413549853789
-"category/Persian/Iranian"	0.00409538697232
-"category/Traditional Chinese Medicine"	0.00405530332173
-"cities/McKees Rocks"	0.00405496387088
-"cities/Greenfield Park"	0.00399833415028
-"cities/Beaconsfield"	0.0039959348377
-"category/Scandinavian"	0.00394926228946
-"cities/North Las Vegas "	0.00394781205901
-"category/Men's Clothing"	0.00389077137679
-"category/Handyman"	0.00386833586025
-"category/Flight Instruction"	0.00383263910072
-"cities/Dollard-des-Ormeaux"	0.00381298275465
-"category/Divorce & Family Law"	0.00378632211024
-"cities/L'Île-des-Soeurs"	0.00376015851283
-"cities/Communauté-Urbaine-de-Montréal"	0.00370235639815
-"category/Party Bus Rentals"	0.00366990525359
-"category/Limos"	0.00364255914512
-"cities/Fort McDowell"	0.00364106974325
-"cities/Youngtown"	0.0036128479302
-"category/Rugs"	0.00360500407082
-"category/Castles"	0.00358645649062
-"cities/Sun Lakes"	0.00347765747905
-"category/Face Painting"	0.00344849046656
-"category/Disc Golf"	0.0033081114534
-"category/University Housing"	0.00323780278607
-"cities/De Forest"	0.00323039067955
-"cities/Millvale"	0.0032052616762
-"category/Musical Instrument Services"	0.00316966212842
-"cities/Bridgeville"	0.00315674930145
-"cities/Savoy"	0.00314931266252
-"cities/Sharpsburg"	0.00312784839185
-"cities/Pierrefonds"	0.00306068023854
-"category/Radio Stations"	0.00303575703174
-"category/Korean"	0.00299572569061
-"cities/South Queensferry"	0.00298912826831
-"category/Paddleboarding"	0.0029278503187
-"votesReviewsRatio/useful"	0.00287515776957
-"numReviews/5 Star"	0.00280422928375
-"category/Musical Instruments & Teachers"	0.0027930022395
-"cities/Sainte-Anne-de-Bellevue"	0.00278903400176
-"category/Dance Schools"	0.00278729078934
-"category/Jewelry Repair"	0.0027401744197
-"category/Plus Size Fashion"	0.00272788361658
-"category/Motorcycle Gear"	0.00270719177131
-"cities/Litchfield Park "	0.00266701184385
-"cities/Sainte-Anne-De-Bellevue"	0.00266614242102
-"cities/Columbus"	0.00262996689571
-"cities/Chateau"	0.00261821888635
-"cities/Cambridge"	0.00260314799701
-"cities/Henderson (Stephanie)"	0.00259680696408
-"category/Singaporean"	0.00259525581198
-"cities/Florence"	0.00254010287866
-"category/Egyptian"	0.002539343036
-"cities/Sainte-Ann-De-Bellevue"	0.00252984376278
-"cities/La Prairie"	0.00247765869855
-"category/Trinidadian"	0.0024426575783
-"category/Property Management"	0.0024420041303
-"category/Piano Services"	0.00243511561764
-"category/Archery"	0.0023280179524
-"category/Battery Stores"	0.00230995930862
-"cities/Eggenstein-Leopoldshafen"	0.00230183245404
-"category/Adult"	0.00222144655432
-"category/Embroidery & Crochet"	0.0021851341876
-"cities/Quebec"	0.00216775402755
-"numReviewsYear/2004"	0.00216203878304
-"category/Gymnastics"	0.00215901620973
-"cities/Whitehall"	0.0021501378407
-"cities/Dormont"	0.00214972362384
-"category/Pub Food"	0.00214798747534
-"cities/Ingram"	0.0021318643546
-"category/Tennis"	0.0020689053767
-"category/Nanny Services"	0.00205834513786
-"category/Fire Protection Services"	0.00202344133737
-"cities/Pittsburg"	0.00199540624248
-"cities/Sainte-Therese"	0.00197959178671
-"category/Tires"	0.00196599882613
-"cities/Montréal-Ouest"	0.00195498897868
-"cities/San Tan Valley"	0.00195281898797
-"category/Osteopathic Physicians"	0.00194678253214
-"cities/Banksville"	0.00193903226627
-"cities/Saint Jacobs"	0.00193034653661
-"cities/Oakland"	0.00191110581559
-"cities/Blainville"	0.00189842626566
-"cities/Newberry Springs"	0.00188762629123
-"cities/Wittmann"	0.00187571311645
-"cities/Centennial Hills"	0.00184013205812
-"cities/Green Tree"	0.00180391370978
-"category/Truck Rental"	0.00179401023972
-"cities/Cottage Grove"	0.00177307390772
-"cities/South Hills"	0.00175879959697
-"category/Lighting Fixtures & Equipment"	0.00174487745728
-"cities/Rankin"	0.0017348619932
-"category/Endodontists"	0.00172883517611
-"category/Art Schools"	0.00170457084755
-"cities/Rosemère"	0.00168900924698
-"cities/Mount Holly"	0.00166938060471
-"category/Blow Dry/Out Services"	0.00166657840953
-"category/Pretzels"	0.00164138530186
-"cities/Dollard-Des-Ormeaux"	0.00154090523733
-"category/Public Plazas"	0.00153808357411
-"category/Commercial Real Estate"	0.00153193154547
-"category/Beaches"	0.0014800080516
-"avgReviewLength"	0.00144144182157
-"category/Mattresses"	0.00143419786338
-"cities/LaSalle"	0.00143042412511
-"cities/Mount Lebanon"	0.00141595632073
-"cities/Desert Ridge"	0.00140390243686
-"category/Guest Houses"	0.00138554500846
-"cities/Roxboro"	0.0013643506404
-"category/Personal Chefs"	0.0013303821695
-"category/Day Camps"	0.00131974675924
-"category/Iberian"	0.00128180914209
-"category/Herbs & Spices"	0.00127583116276
-"category/Family Practice"	0.00122994487414
-"cities/Robinson Township"	0.00119842234872
-"category/Clowns"	0.00118143391621
-"category/Paintball"	0.00116340171332
-"cities/Laveen"	0.00114638936758
-"cities/Braddock"	0.00114565061011
-"category/Tanning Beds"	0.00114511479277
-"category/Surf Shop"	0.0011320878288
-"category/Neurologist"	0.00112999358662
-"category/Permanent Makeup"	0.0011262709084
-"cities/Cote-des-Neiges-Notre-Dame-de-Grace"	0.00108788276491
-"cities/Ft. Mill"	0.00106917664964
-"category/Building Supplies"	0.00104522152786
-"cities/Longueuil"	0.00102256971016
-"cities/Coolidge"	0.001017544899
-"category/CSA"	0.00100483464095
-"category/Employment Agencies"	0.000994869558399
-"category/Rheumatologists"	0.000988258314381
-"category/Curry Sausage"	0.000957916599622
-"category/Pop-up Shops"	0.000949681578697
-"cities/Mint Hill"	0.000899058814281
-"category/Business Law"	0.000869709712835
-"cities/Vimont"	0.000826686592249
-"category/Junk Removal & Hauling"	0.000806408351613
-"category/Police Departments"	0.000788960261094
-"category/Advertising"	0.000787247170376
-"category/Screen Printing"	0.000745645518424
-"category/Basketball Courts"	0.00074011832598
-"cities/Saguaro Lake"	0.000737774812961
-"category/Oriental"	0.000727431647012
-"cities/Dravosburg"	0.000689949266308
-"cities/Saint-Leonard"	0.000674255815379
-"cities/Edgewood"	0.000664818907028
-"cities/Henderson (Green  Valley)"	0.000660046123389
-"cities/Conestogo"	0.000658664652883
-"category/Personal Assistants"	0.000629397840391
-"cities/South Las Vegas"	0.000629084608323
-"cities/Henderson, NV 89074"	0.000594760435902
-"cities/Rosemere"	0.000587613439584
-"cities/L'Île-Bizard"	0.000576807849659
-"category/Courthouses"	0.000571206734723
-"cities/Charlotte (University)"	0.000543681574183
-"category/Retirement Homes"	0.000539228753989
-"cities/Bellvue"	0.000532286605643
-"cities/Loanhead"	0.000515743862692
-"cities/Fountain Hls"	0.00048540350639
-"cities/Mount Washington"	0.000460596649928
-"cities/Phoenix-Ahwatukee"	0.000451613294164
-"cities/Bethel Park"	0.000449350979144
-"cities/St Jacobs"	0.00044652932792
-"cities/Belmont"	0.000444794966136
-"cities/W Spring Valley"	0.00040534176137
-"cities/Stoughton"	0.000392777395215
-"cities/Ratho"	0.000387874812732
-"category/Prosthetics"	0.00038731186059
-"category/Videos & Video Game Rental"	0.000382015764342
-"cities/Henderson and Las vegas"	0.000358090733811
-"cities/Squirrel Hill"	0.000356244714705
-"cities/Waxhaw"	0.000352847594851
-"cities/NELLIS AFB"	0.000327752634387
-"category/Real Estate Law"	0.000326539319307
-"category/Endocrinologists"	0.000321823925907
-"category/Local Flavor"	0.000316242271258
-"category/Buses"	0.000310467057399
-"category/DJs"	0.00029779926212
-"category/Tai Chi"	0.000286772914138
-"category/Water Delivery"	0.000267246395157
-"category/Educational Services"	0.000259879919293
-"category/Izakaya"	0.000255345188082
-"cities/Deux-Montagnes Regional County Municipality"	0.000247000804314
-"category/Special Education"	0.000223942646044
-"category/Chiropractors"	0.000222487105284
-"cities/Terrebonne"	0.000221117198814
-"cities/Straiton"	0.000219208229798
-"cities/Mcfarland"	0.000213116196314
-"category/Orthopedists"	0.000212465283117
-"category/Vacation Rental Agents"	0.000211092016795
-"cities/Scotland"	0.000210968121754
-"category/Ear Nose & Throat"	0.000196589810532
-"category/Gift Shops"	0.000194178709672
-"cities/Montréal-Nord"	0.000193393833943
-"yelpingYear/2006"	0.000172255548157
-"cities/Allegheny"	0.000169311388817
-"category/Career Counseling"	0.000161007930584
-"cities/Le Vieux-Port"	0.000152060530304
-"cities/Etna"	0.000133000662689
-"category/Horse Boarding"	0.000116866429397
-"cities/Mirabel"	0.000116844487652
-"category/Glass & Mirrors"	8.75724800924e-05
-"cities/Saint-Hubert"	7.25866557692e-05
-"category/Motorcycle Rental"	7.00404514697e-05
-"cities/Bloomfield"	6.30697035142e-05
-"cities/Stockbridge"	5.84212368803e-05
-"category/Home Health Care"	5.30917206259e-05
-"category/Home Staging"	4.74710526674e-05
-"cities/Cramond Bridge"	4.64989894255e-05
-"cities/Saint-laurent"	4.35505313378e-05
-"cities/Saint-Eustache"	4.15713007501e-05
-"cities/Crafton"	3.66762739349e-05
-"cities/South Gyle"	3.14769808892e-05
-"cities/Heidelberg"	1.9125438602e-05
-"cities/Stanfield"	1.58649398583e-05
-"cities/Roslin"	8.32091969212e-06
-"category/General Festivals"	4.52635702482e-06
-"cities/Mt. Oliver Boro"	-8.03079359354e-10
-"cities/Nellis Air Force Base"	-1.00731905377e-05
-"cities/Whitney"	-1.54185381528e-05
-"cities/Fountain Hills"	-1.71142476395e-05
-"category/Pole Dancing Classes"	-1.87116337206e-05
-"cities/1023 E Frye Rd"	-1.87280090885e-05
-"cities/Boisbriand"	-1.96142393275e-05
-"category/Mailbox Centers"	-2.01136550911e-05
-"cities/Old Montreal"	-2.1043954934e-05
-"cities/Montreal-Ouest"	-2.40057072839e-05
-"cities/McFarland"	-2.52717997992e-05
-"cities/Stowe Township"	-2.6206295994e-05
-"cities/chandler"	-2.78188913294e-05
-"cities/Montreal-West"	-2.86140601278e-05
-"cities/Mascouche"	-3.29380956381e-05
-"cities/Jockgrim"	-3.31656411038e-05
-"cities/Baie-D'urfe"	-3.69315939225e-05
-"category/Cardiologists"	-3.76865937798e-05
-"cities/Stutensee neuthard"	-4.46924769592e-05
-"category/Customized Merchandise"	-4.74143868115e-05
-"cities/Dollard-Des Ormeaux"	-5.03708118866e-05
-"category/Bike Sharing"	-5.13907406989e-05
-"cities/Bocholt"	-5.49930336426e-05
-"cities/Surprise Crossing"	-5.67384835177e-05
-"cities/Hagenbach"	-6.04497103048e-05
-"cities/Victoria Park"	-6.48379850818e-05
-"cities/Nboulder City"	-6.8098196155e-05
-"category/Cajun/Creole"	-6.99103286813e-05
-"cities/St. Jacobs"	-7.32347463049e-05
-"cities/Delmont"	-7.37547224568e-05
-"category/Hang Gliding"	-7.51892254655e-05
-"cities/Deux-Montagnes"	-8.70373744857e-05
-"cities/Chandler-Gilbert"	-9.1131766261e-05
-"cities/Newington"	-9.19338891465e-05
-"cities/Inverkeithing"	-9.20444483992e-05
-"category/Mosques"	-9.59079769712e-05
-"cities/Mt Lebanon"	-9.87641876257e-05
-"cities/Southside Flats"	-0.000103051876053
-"cities/Tucson"	-0.00010605477511
-"cities/Arlington"	-0.000110998758057
-"category/Doulas"	-0.000114596591321
-"cities/LAS VEGAS"	-0.000116756179404
-"category/Eastern German"	-0.000117675772466
-"category/Haitian"	-0.000118725735694
-"cities/Guadalupe"	-0.000118840196667
-"category/Beer Gardens"	-0.000122656112482
-"cities/Mount Royal"	-0.000131621249807
-"category/Serbo Croatian"	-0.000131710040889
-"category/Lice Services"	-0.000132785867988
-"cities/Stutensee"	-0.000135446862555
-"category/Psychologists"	-0.00013757852486
-"category/Austrian"	-0.000142743453381
-"category/Gutter Services"	-0.00014624697602
-"category/Walk-in Clinics"	-0.000148109632821
-"category/Oncologist"	-0.000153091701702
-"cities/Sun City Anthem"	-0.000155465504913
-"category/Firearm Training"	-0.00015548046942
-"category/Teppanyaki"	-0.000157624375068
-"cities/Phoenix Sky Harbor Center"	-0.000158048137621
-"cities/Metro Phoenix"	-0.00015931642817
-"cities/Charlotte "	-0.000162314466476
-"cities/Rio Verde"	-0.000162897899187
-"category/Fondue"	-0.000168873411923
-"category/High Fidelity Audio Equipment"	-0.000178915660319
-"category/Legal Services"	-0.000190364173741
-"cities/Upper Saint Clair"	-0.000192185902223
-"cities/Bruchsal"	-0.000194102517291
-"category/Religious Schools"	-0.000198476656508
-"cities/Scottsdale Country Acres"	-0.000199811824225
-"category/Cultural Center"	-0.000200473491424
-"category/Cabaret"	-0.000200825882682
-"cities/Pointe-Aux-Trembles"	-0.00020144207708
-"category/Fireplace Services"	-0.000204021310353
-"cities/Durmersheim"	-0.000212589075164
-"cities/Scottdale"	-0.000213399088153
-"category/Security Services"	-0.000213616000643
-"category/Donairs"	-0.000223954300251
-"category/Airlines"	-0.00022510957253
-"category/Walking Tours"	-0.000230816630502
-"cities/Scottsdale, Phoenix, Chandler, Gilbert"	-0.000232040639452
-"cities/City of Edinburgh"	-0.000241570647098
-"cities/Fabreville"	-0.00024776508796
-"category/Life Coach"	-0.000250642372355
-"category/Meditation Centers"	-0.000255649608651
-"cities/Last Vegas"	-0.000267200128919
-"category/Bartending Schools"	-0.000274169403841
-"cities/Las Vegas "	-0.000281919772154
-"category/Metal Fabricators"	-0.000312376799762
-"category/Sugaring"	-0.000314412201132
-"category/Home Inspectors"	-0.000329071122942
-"cities/Tonto Basin"	-0.000332161604547
-"category/Home Organization"	-0.000334184770727
-"cities/Pittsburgh/S. Hills Galleria"	-0.000335174994955
-"category/Architects"	-0.000335632176172
-"cities/Ste-Rose"	-0.000341501624732
-"cities/San Diego"	-0.000345293571103
-"cities/Henderston"	-0.000350625926345
-"category/Septic Services"	-0.00035241747011
-"category/Psychiatrists"	-0.000353109649606
-"category/Swiss Food"	-0.000353587576946
-"cities/Penicuik"	-0.000354804200425
-"cities/St Clements"	-0.000355774464224
-"category/Insulation Installation"	-0.000356856102293
-"category/Video/Film Production"	-0.000357162222552
-"numTips"	-0.000363780697749
-"cities/Seattle"	-0.000379970472415
-"cities/New Dundee"	-0.000390339432345
-"category/Race Tracks"	-0.000392471410054
-"category/Rolfing"	-0.000400488429125
-"cities/University"	-0.00041185163587
-"category/Food Tours"	-0.000413032309833
-"cities/Bapchule"	-0.000433677764134
-"category/RV Repair"	-0.000433814307829
-"cities/Balerno"	-0.000434628743291
-"category/Immigration Law"	-0.000434885969494
-"cities/Fort mill"	-0.000436910068536
-"cities/N W Las Vegas"	-0.000440873951268
-"cities/Lake Las Vegas"	-0.000441268931071
-"category/Anesthesiologists"	-0.000453641560401
-"cities/Rock Hill"	-0.000461176283065
-"category/Private Investigation"	-0.000464623767445
-"category/Flowers"	-0.000471608798287
-"category/Shutters"	-0.000471610691285
-"cities/Saint-Lambert"	-0.000473443258812
-"cities/Cultural District"	-0.000477913903972
-"cities/Eagan"	-0.000487984289308
-"category/Payroll Services"	-0.000492638635703
-"cities/Los Angeles"	-0.000509962464013
-"cities/Pittsburrgh"	-0.000511722229745
-"category/CPR Classes"	-0.000511816417065
-"category/Food Banks"	-0.000527178385022
-"numEliteFriends"	-0.000531845073446
-"category/Boat Dealers"	-0.000532054738759
-"cities/Fort Mcdowell"	-0.000534056903611
-"category/Hearing Aid Providers"	-0.000534594319223
-"category/Television Stations"	-0.000538577410303
-"category/Boat Repair"	-0.000547743936949
-"category/Golf Equipment Shops"	-0.000576174095897
-"category/First Aid Classes"	-0.000581855720408
-"category/Czech"	-0.000599149422168
-"cities/Pfinztal"	-0.000600482273945
-"cities/Deforest"	-0.000604525028739
-"category/Bangladeshi"	-0.000605986885342
-"category/Matchmakers"	-0.000609409199602
-"cities/Lawrenceville"	-0.000610191587052
-"category/Uzbek"	-0.000613573069242
-"cities/Portobello"	-0.000613928787017
-"cities/Las Vegas East"	-0.000632418851922
-"cities/Sainte-Thérèse"	-0.000637307757081
-"category/Chimney Sweeps"	-0.000640276801736
-"category/Wigs"	-0.000644925382482
-"category/Car Share Services"	-0.000645011330183
-"cities/Mckees Rocks"	-0.000654991101965
-"category/Post Offices"	-0.000659704363717
-"cities/Luke AFB"	-0.000666136300307
-"cities/Pointe Claire"	-0.000667945565034
-"category/Acupuncture"	-0.000673279590297
-"category/Soul Food"	-0.000686287348457
-"category/Valet Services"	-0.000697034553776
-"category/Pita"	-0.000699842249325
-"cities/Water of Leith"	-0.000713826782757
-"cities/Sunrise"	-0.000738782508129
-"cities/Saint Laurent"	-0.000746921165245
-"category/Speech Therapists"	-0.000752810741397
-"category/Private Tutors"	-0.000754296030511
-"cities/Roosevelt"	-0.000761697325593
-"category/Officiants"	-0.000768663478116
-"cities/Tega Cay"	-0.000769393595821
-"category/Beverage Store"	-0.00077986929194
-"category/Barbers"	-0.000805455786979
-"category/Trophy Shops"	-0.000808506468568
-"cities/London"	-0.000826093489874
-"category/Shredding Services"	-0.000833323177944
-"category/Employment Law"	-0.000839633837541
-"cities/Pheonix"	-0.000841333498485
-"category/Orthotics"	-0.00084879358797
-"category/Reiki"	-0.000859959087444
-"category/Health Retreats"	-0.000867837923975
-"category/Hospice"	-0.000877417167671
-"cities/Leith"	-0.000886244511688
-"cities/Brookline"	-0.000887102704325
-"category/Social Clubs"	-0.000891844586309
-"category/Horse Racing"	-0.000894447909689
-"cities/Central Henderson"	-0.000894962824825
-"category/Bail Bondsmen"	-0.000900349172493
-"category/International"	-0.000907257047887
-"numFriends"	-0.000909453652116
-"category/Aquarium Services"	-0.000927399405314
-"category/Wine Tours"	-0.000927454643624
-"category/Telecommunications"	-0.000949715755309
-"cities/Cote-Saint-Luc"	-0.000951481128608
-"category/Currency Exchange"	-0.000954856392191
-"cities/Cramond"	-0.000966433575614
-"cities/Waunakee"	-0.000973972270698
-"category/Refinishing Services"	-0.00103205772709
-"cities/McKeesport"	-0.0010350793944
-"cities/Stowe"	-0.00105717699361
-"cities/Arcadia"	-0.00106473683202
-"cities/W Henderson"	-0.00108650988855
-"category/Hostels"	-0.00112425491902
-"cities/Dane"	-0.00121609610135
-"cities/Forchheim"	-0.00123116842541
-"cities/Firth of Forth"	-0.00125024183697
-"category/Medical Transportation"	-0.00125642522941
-"cities/Clover"	-0.00132498063235
-"cities/Sainte-Genevieve"	-0.00135661716964
-"category/Skydiving"	-0.00137349971663
-"category/Language Schools"	-0.0013846612704
-"category/Cooking Classes"	-0.00140783012922
-"category/Car Stereo Installation"	-0.00141099534694
-"category/Cosmetic Surgeons"	-0.00142189679407
-"cities/Castle Shannon"	-0.00142408683793
-"category/Audiologist"	-0.0014413005256
-"category/Lactation Services"	-0.00152043668933
-"cities/Brentwood"	-0.00152638886646
-"category/Midwives"	-0.00154902098803
-"cities/Henderson "	-0.00157388985135
-"category/Country Dance Halls"	-0.00158627035462
-"cities/Anjou"	-0.00158832760636
-"cities/Mc Kees Rocks"	-0.00159329273888
-"category/Firewood"	-0.00159726584684
-"category/DUI Law"	-0.00159736680905
-"cities/Mont-Royal"	-0.00160861133968
-"category/Knitting Supplies"	-0.00163488700399
-"category/Registration Services"	-0.00163530493545
-"numReviewsYear/2014"	-0.0016745283102
-"category/Nutritionists"	-0.00167913144174
-"cities/DeForest"	-0.00168213242894
-"category/Video Game Stores"	-0.00169404380163
-"cities/Anthem"	-0.00169703773883
-"category/Massage Therapy"	-0.00169868528101
-"category/Art Supplies"	-0.00173829287644
-"cities/Monroe"	-0.00177734486834
-"category/Batting Cages"	-0.00179863746103
-"cities/Allentown"	-0.00188017937445
-"category/Recycling Center"	-0.00191706201218
-"category/Towing"	-0.00192284019431
-"category/Recording & Rehearsal Studios"	-0.00192984818477
-"category/Flowers & Gifts"	-0.00194367581492
-"category/Tutoring Centers"	-0.00194709849373
-"category/Ethnic Grocery"	-0.00195171690757
-"cities/Central City Village"	-0.0019527453739
-"category/Buddhist Temples"	-0.0019785584197
-"category/Shared Office Spaces"	-0.00197925953038
-"category/Drywall Installation & Repair"	-0.00199389535886
-"cities/W Summerlin"	-0.0020016220759
-"cities/North Scottsdale"	-0.00202491332695
-"cities/Carnegie"	-0.00203766321157
-"cities/PHOENIX"	-0.00203998078347
-"cities/Summerlin South"	-0.0020554047198
-"category/Coffee & Tea Supplies"	-0.00206623567323
-"category/Occupational Therapy"	-0.00210088454807
-"cities/Wörth am Rhein"	-0.00211596296333
-"category/Men's Hair Salons"	-0.00211683164484
-"category/Masonry/Concrete"	-0.00213015849384
-"category/Skate Parks"	-0.0021732481746
-"category/Rehabilitation Center"	-0.00220931482609
-"category/Cabinetry"	-0.00222322709776
-"category/Furniture Repair"	-0.00223060823243
-"category/Synagogues"	-0.00224936378406
-"category/Tree Services"	-0.0022568224805
-"cities/Middleton"	-0.00226024276441
-"category/Ski Resorts"	-0.00228463703998
-"category/Solar Installation"	-0.00228801085796
-"category/Christmas Markets"	-0.00230170191507
-"category/Accountants"	-0.00233133231136
-"cities/Sun City West"	-0.00233674831853
-"category/Radiologists"	-0.0023375942092
-"category/Web Design"	-0.0023428425175
-"category/Laser Hair Removal"	-0.00236030469994
-"category/RV Rental"	-0.00236446270694
-"category/Boxing"	-0.00238768486387
-"category/Hindu Temples"	-0.00241782789365
-"cities/Weddington"	-0.00244858849418
-"cities/Boucherville"	-0.0024597616406
-"category/Allergists"	-0.00252779245456
-"cities/Montreal-Nord"	-0.00257043834739
-"category/Photo Booth Rentals"	-0.00262515148815
-"category/Diving"	-0.00263019193283
-"category/Scuba Diving"	-0.0026462677187
-"cities/Lasswade"	-0.0026786809351
-"category/Auto Parts & Supplies"	-0.00270909787729
-"cities/Westmount"	-0.00271130880407
-"cities/Juniper Green"	-0.00271713436936
-"cities/Bonnyrigg and Lasswade"	-0.00271780516806
-"category/Gold Buyers"	-0.00272935238042
-"category/Thrift Stores"	-0.00273584158778
-"cities/Dalgety Bay"	-0.0027990189702
-"cities/Bonnyrigg"	-0.00282091818132
-"category/Powder Coating"	-0.0028528637382
-"category/Surgeons"	-0.00285560135801
-"category/Test Preparation"	-0.00287761507954
-"category/Used Bookstore"	-0.00292319173861
-"category/RV Dealers"	-0.00293381656562
-"category/Pressure Washers"	-0.00293928327288
-"cities/Aspinwall"	-0.00295347247887
-"cities/C Las Vegas"	-0.00297390124884
-"category/Auto Glass Services"	-0.00299945615673
-"category/Vocational & Technical School"	-0.00300190637502
-"category/Estate Planning Law"	-0.00300915816191
-"cities/Fort Kinnaird"	-0.00301769673769
-"cities/Downtown"	-0.00302458340079
-"cities/Mattews"	-0.0030428226923
-"category/Framing"	-0.00307346351846
-"category/Challenge Courses"	-0.00307481026793
-"category/Wok"	-0.00310112856496
-"cities/Tortilla Flat"	-0.00310656947208
-"category/Talent Agencies"	-0.00310994023214
-"category/Bus Tours"	-0.00313057810984
-"category/Fences & Gates"	-0.00313492158226
-"cities/Nellis Afb"	-0.00314506679087
-"category/Middle Eastern"	-0.00314618651552
-"cities/Rheinstetten"	-0.00318168699825
-"cities/Old Town"	-0.00320942357138
-"cities/Regent Square"	-0.00322586050592
-"category/Videographers"	-0.00322776972813
-"cities/Wilkinsburg"	-0.0032280431385
-"category/Saunas"	-0.00331354888987
-"cities/Indian Land"	-0.0033343522904
-"category/Hats"	-0.00334732856746
-"category/Urologists"	-0.00337292232213
-"category/Hot Air Balloons"	-0.0033853601903
-"cities/North Queensferry"	-0.00340074786137
-"category/Child Care & Day Care"	-0.00341811264361
-"category/Campgrounds"	-0.00343968464528
-"category/Hypnosis/Hypnotherapy"	-0.00344115542294
-"category/Damage Restoration"	-0.00345820834988
-"category/Florists"	-0.00352342606788
-"category/Landscape Architects"	-0.00354993205256
-"cities/Karlsbad"	-0.00356697868834
-"category/Photography Stores & Services"	-0.00356922128343
-"category/Party Equipment Rentals"	-0.00357330801646
-"cities/Waldbronn"	-0.00358421724548
-"cities/Midlothian"	-0.00367611131882
-"category/Costumes"	-0.00370659440129
-"category/Fireworks"	-0.00371206164986
-"category/Argentine"	-0.00376262432261
-"cities/Buckeye"	-0.00376406786462
-"cities/El Mirage"	-0.00378318461144
-"category/Auction Houses"	-0.00378537532776
-"cities/Weingarten"	-0.0038553674908
-"category/Bespoke Clothing"	-0.00390064365412
-"category/Funeral Services & Cemeteries"	-0.00391040366631
-"category/Pasta Shops"	-0.00391838788554
-"cities/New Town"	-0.00395386370895
-"cities/Woolwich"	-0.00396217192965
-"category/Auto Loan Providers"	-0.00397833958003
-"category/Cannabis Clinics"	-0.00399586120869
-"category/Fertility"	-0.00403994090906
-"category/Window Washing"	-0.00412350002551
-"category/Martial Arts"	-0.00414159948381
-"cities/Tonopah"	-0.00418552651907
-"category/Horseback Riding"	-0.00421172105393
-"category/Preschools"	-0.0043527634505
-"cities/Ettlingen"	-0.0043563932985
-"category/Falafel"	-0.00438866234503
-"category/Hot Pot"	-0.00443659013897
-"category/Pool & Hot Tub Service"	-0.00444273666714
-"category/Investing"	-0.00444382537734
-"category/Eyewear & Opticians"	-0.00444738669304
-"category/Sports Wear"	-0.00444837035626
-"category/Irrigation"	-0.00446143232529
-"category/Department Stores"	-0.00449502412028
-"category/Sports Clubs"	-0.00453262492943
-"category/Interior Design"	-0.00462634727496
-"category/Furniture Reupholstery"	-0.00464429226661
-"category/Laser Tag"	-0.00464698649237
-"cities/Windsor"	-0.00473804459985
-"cities/Glendale Az"	-0.00474110897656
-"category/Dominican"	-0.00487272249424
-"cities/Shadyside"	-0.00488314399732
-"cities/Wesley Chapel"	-0.00488723778638
-"cities/Paradise"	-0.00491431784706
-"category/Data Recovery"	-0.00493045905
-"category/Filipino"	-0.00499224626231
-"category/Medical Supplies"	-0.0050507468261
-"category/Bed & Breakfast"	-0.00508021528113
-"category/Summer Camps"	-0.00511862207715
-"cities/Carefree"	-0.00513667433473
-"category/Surfing"	-0.00514956718974
-"category/Home Theatre Installation"	-0.00515202942215
-"cities/Higley"	-0.00516967568799
-"category/Psychics & Astrologers"	-0.00517679329587
-"cities/Concord Mills"	-0.00527414538101
-"category/Souvenir Shops"	-0.00531652153084
-"cities/Spring Valley"	-0.00534801918628
-"category/Shades & Blinds"	-0.00538297319037
-"category/Criminal Defense Law"	-0.00538923253085
-"category/Kebab"	-0.00539843312972
-"category/Basque"	-0.0055043276861
-"category/Propane"	-0.00553452526333
-"category/Fishing"	-0.00563961780772
-"cities/Queensferry"	-0.00570563091741
-"cities/Morristown"	-0.00570985281145
-"localEliteFriends"	-0.00573339956553
-"category/Pharmacy"	-0.00580919074121
-"category/Office Cleaning"	-0.0059125421694
-"cities/Verona"	-0.00595634683631
-"category/Check Cashing/Pay-day Loans"	-0.00598231798936
-"category/Bavarian"	-0.00598452226
-"cities/Monona"	-0.00604397950523
-"category/Windshield Installation & Repair"	-0.00605283508564
-"category/Auto Customization"	-0.00609619970711
-"category/Motorcycle Repair"	-0.00612015707895
-"cities/Mc Farland"	-0.00615580697892
-"category/Lebanese"	-0.00617390961487
-"category/Musicians"	-0.00624038537042
-"category/Ukrainian"	-0.00627351330058
-"category/Ramen"	-0.00627789636598
-"category/Naturopathic/Holistic"	-0.00630522389095
-"numReviewsYear/2006"	-0.00632804938125
-"category/African"	-0.0063285407456
-"category/Turkish"	-0.00640826188029
-"category/Dermatologists"	-0.00647455594559
-"cities/Fitchburg"	-0.00650518989622
-"cities/New River"	-0.00651231020745
-"category/Boating"	-0.00657121044123
-"category/Auto Detailing"	-0.00659634812119
-"cities/Harrisburg"	-0.00671365832884
-"category/Indonesian"	-0.00672497322232
-"category/Libraries"	-0.00672845762696
-"category/Patisserie/Cake Shop"	-0.00674425251289
-"category/Medical Spas"	-0.00683404987848
-"cities/Lake Wylie"	-0.00685412200033
-"category/Laser Eye Surgery/Lasik"	-0.00692847521917
-"cities/Musselburgh"	-0.00699440443047
-"category/Hospitals"	-0.00702768164914
-"cities/Newbridge"	-0.0070733272592
-"category/Go Karts"	-0.00708462382973
-"category/Toy Stores"	-0.00710949148798
-"category/Hungarian"	-0.00713751860511
-"cities/Maricopa"	-0.00714077278305
-"cities/Dalkeith"	-0.00720013878281
-"category/Tapas Bars"	-0.0073258361618
-"category/Discount Store"	-0.00734029528889
-"category/Hobby Shops"	-0.00734244750445
-"category/Windows Installation"	-0.0073889656531
-"category/Tax Services"	-0.00739687824401
-"cities/Tolleson"	-0.00753466900281
-"category/Waxing"	-0.00765309699505
-"cities/Enterprise"	-0.00769121684201
-"category/Maternity Wear"	-0.00771078086146
-"category/Home Window Tinting"	-0.00776477513493
-"category/Public Transportation"	-0.00777022408911
-"category/Pet Groomers"	-0.00791678919733
-"category/Baden"	-0.00792967078859
-"category/Watch Repair"	-0.00798010248858
-"category/Sporting Goods"	-0.00806097006815
-"category/Barbeque"	-0.00808540357846
-"category/Utilities"	-0.00811888871235
-"category/Wineries"	-0.00812011461521
-"category/Carpet Installation"	-0.00816141459236
-"category/Organic Stores"	-0.00826015533702
-"category/Swimwear"	-0.00851221585699
-"category/Mediterranean"	-0.00860073037775
-"category/Guns & Ammo"	-0.00860077607572
-"category/Dog Walkers"	-0.00861516811868
-"category/Personal Injury Law"	-0.00872332137984
-"category/Donuts"	-0.0087310736256
-"category/Counseling & Mental Health"	-0.0088048076937
-"category/Adult Education"	-0.00906508390325
-"cities/Green Valley"	-0.00911489738699
-"cities/Kitchener"	-0.0091718321371
-"category/Laboratory Testing"	-0.00929104164015
-"category/Food Court"	-0.00934421658313
-"category/Podiatrists"	-0.00950822025781
-"category/Golf Equipment"	-0.00953901093545
-"category/Real Estate"	-0.00956254435395
-"cities/Summerlin"	-0.00958405045995
-"numReviewsYear/2009"	-0.00967666227566
-"category/Cosmetic Dentists"	-0.00974477982332
-"cities/Gila Bend"	-0.00983036348914
-"category/Personal Shopping"	-0.00989243636794
-"category/Pets"	-0.00989634701133
-"category/Door Sales/Installation"	-0.00990149095013
-"category/Delicatessen"	-0.0100080744968
-"category/Television Service Providers"	-0.0100091161269
-"category/Trampoline Parks"	-0.0100939302319
-"category/Colombian"	-0.0101672545112
-"category/Polish"	-0.0102048825066
-"category/Wheel & Rim Repair"	-0.0105552158188
-"category/Hookah Bars"	-0.010740841477
-"category/Marketing"	-0.0107693555337
-"maxNumSlidingReviews"	-0.0108889870072
-"numReviews/3 Star"	-0.0109216036497
-"cities/Concord"	-0.0109675307646
-"category/Event Photography"	-0.0109733764802
-"category/Adult Entertainment"	-0.0109848585328
-"category/Roofing"	-0.0110161152751
-"numReviewsYear/2012"	-0.0110340804142
-"category/Financial Advising"	-0.0111935909492
-"category/Diagnostic Imaging"	-0.011253344066
-"category/Gardeners"	-0.0113082047267
-"category/Beer Garden"	-0.0114603520611
-"category/RV Parks"	-0.0116290933867
-"category/German"	-0.0117671598036
-"category/Bars"	-0.0117885255316
-"cities/Apache Junction"	-0.0118622895259
-"category/Bookstores"	-0.0119008796015
-"category/Driving Schools"	-0.0119827209534
-"category/Sushi Bars"	-0.0120810270068
-"category/Pediatric Dentists"	-0.012099916007
-"category/Trains"	-0.0121776083909
-"category/Amateur Sports Teams"	-0.0122333326206
-"category/Recreation Centers"	-0.0122381964551
-"category/Airport Shuttles"	-0.0124227230246
-"category/Home Cleaning"	-0.0124400908693
-"category/Security Systems"	-0.0124423113839
-"category/Music & DVDs"	-0.0125020170914
-"category/Internal Medicine"	-0.0125324491406
-"category/Jewelry"	-0.0125410572623
-"category/Plumbing"	-0.012615701758
-"category/Shanghainese"	-0.0126336801316
-"category/Shoe Repair"	-0.0128069963153
-"category/Portuguese"	-0.0128617539386
-"category/Soccer"	-0.0129398000441
-"category/Himalayan/Nepalese"	-0.0130096431101
-"cities/Boulder City"	-0.0130854163347
-"category/Landscaping"	-0.0132336453295
-"category/Greek"	-0.0132568920253
-"category/Sports Medicine"	-0.0132590736289
-"category/Dry Cleaning & Laundry"	-0.0133064313833
-"category/Tattoo Removal"	-0.0133100086121
-"category/Pet Services"	-0.0134495032465
-"category/Malaysian"	-0.0134869967574
-"numReviewsYear/2011"	-0.0135258272726
-"category/Car Dealers"	-0.0137140656015
-"cities/Stallings"	-0.0140904835822
-"category/Session Photography"	-0.0141103777365
-"category/Diagnostic Services"	-0.014133647048
-"category/Ophthalmologists"	-0.0141945521575
-"category/Luggage"	-0.0143636888132
-"category/Office Equipment"	-0.0146598248205
-"category/Motorcycle Dealers"	-0.0148302182455
-"category/Gas & Service Stations"	-0.0149502950669
-"category/Body Shops"	-0.0149895343275
-"category/Cheesesteaks"	-0.0152273642075
-"category/Smog Check Stations"	-0.0153286167608
-"category/Painters"	-0.0153439455313
-"category/Carpeting"	-0.0153555400092
-"numReviews/2 Star"	-0.0155381097095
-"category/Flooring"	-0.0155488678733
-"category/Russian"	-0.0155670833729
-"category/Community Service/Non-Profit"	-0.0156536118377
-"category/Couriers & Delivery Services"	-0.0160826212507
-"category/Arabian"	-0.016197527666
-"category/Shoe Stores"	-0.016259024414
-"category/Physical Therapy"	-0.0162791793597
-"category/Event Planning & Services"	-0.0163021532691
-"category/Transportation"	-0.0163208946288
-"category/Meat Shops"	-0.0163466040356
-"category/Halal"	-0.0163810692141
-"category/Pool Cleaners"	-0.0166124928161
-"category/Delis"	-0.0166809793107
-"category/Garage Door Services"	-0.0166928760269
-"category/Doctors"	-0.0167120855568
-"category/Professional Sports Teams"	-0.016930315393
-"category/Lawyers"	-0.0169751320787
-"category/Eyelash Service"	-0.0171389688181
-"category/Lakes"	-0.0171868618005
-"category/Cards & Stationery"	-0.0173494924749
-"category/Departments of Motor Vehicles"	-0.0177048284644
-"category/Fish & Chips"	-0.0178169631719
-"category/Vinyl Records"	-0.0179201859111
-"category/Print Media"	-0.0180941411614
-"category/Venues & Event Spaces"	-0.0181165252186
-"category/Scottish"	-0.0182985458811
-"category/Pest Control"	-0.0183973924002
-"numReviewsYear/2013"	-0.0184820005183
-"cities/Indian Trail"	-0.0185102540725
-"category/Leisure Centers"	-0.0190458753254
-"cities/Tempe"	-0.0190919127978
-"category/Religious Organizations"	-0.0192997287534
-"category/Bistros"	-0.0194425061706
-"category/Churches"	-0.0194601351437
-"complimentsFansRatio/plain"	-0.0194655091668
-"category/Real Estate Agents"	-0.0194671856484
-"category/Street Art"	-0.0196725025823
-"category/Movers"	-0.0196914907477
-"category/Internet Cafes"	-0.0197807805212
-"category/Hair Stylists"	-0.0202429358008
-"category/Comic Books"	-0.0203282833013
-"category/Keys & Locksmiths"	-0.0203609616994
-"category/Graphic Design"	-0.0206010655777
-"numReviewsYear/2010"	-0.020608317195
-"cities/Wickenburg"	-0.0206423645961
-"category/Photographers"	-0.0207072304962
-"category/Children's Clothing"	-0.0207156862539
-"category/Candy Stores"	-0.0211186342321
-"category/Lingerie"	-0.0212795939341
-"cities/Litchfield Park"	-0.0214814308507
-"category/Colleges & Universities"	-0.0215647763133
-"cities/Fort Mill"	-0.0215790665265
-"category/Printing Services"	-0.021762950142
-"category/Contractors"	-0.0221481900868
-"numReviewsYear/2005"	-0.0222589463937
-"cities/Sun City"	-0.0226124305326
-"category/Watches"	-0.0226892962188
-"category/Mass Media"	-0.0227107366975
-"category/Moroccan"	-0.022722876234
-"category/Kosher"	-0.022879901919
-"cities/Pittsburgh"	-0.0230770955343
-"category/Electronics Repair"	-0.0231092672822
-"category/Coffeeshops"	-0.0232388857866
-"cities/Avondale"	-0.0233062922466
-"category/Cosmetics & Beauty Supply"	-0.0235769977985
-"category/Skin Care"	-0.0236188104228
-"category/Real Estate Services"	-0.02376651055
-"category/Nurseries & Gardening"	-0.0241148963114
-"numReviewsYear/2008"	-0.0241868787283
-"category/Financial Services"	-0.0243704551707
-"category/Dim Sum"	-0.0245335966633
-"category/Afghan"	-0.024998436666
-"complimentsFansRatio/profile"	-0.0251439829073
-"category/Shipping Centers"	-0.0251480853696
-"category/Taxis"	-0.0258017723857
-"category/Party Supplies"	-0.025814145444
-"category/Appliances"	-0.025852843143
-"category/Pawn Shops"	-0.0260148473014
-"category/Heating & Air Conditioning/HVAC"	-0.0262937546162
-"category/Newspapers & Magazines"	-0.0266847025124
-"category/Fashion"	-0.026798885449
-"cities/Chandler"	-0.0271261459823
-"category/Tours"	-0.0272699598525
-"category/Reflexology"	-0.0273200599995
-"category/Ticket Sales"	-0.0273245319296
-"category/Hair Extensions"	-0.0277489972827
-"cities/Gilbert"	-0.0286026707886
-"category/Insurance"	-0.0290643065084
-"category/Train Stations"	-0.029614941258
-"category/Mobile Phone Repair"	-0.0299258880162
-"category/Gun/Rifle Ranges"	-0.0302801526661
-"category/Ethnic Food"	-0.0306785006478
-"cities/Pineville"	-0.0307500494267
-"category/Computers"	-0.0312670646616
-"category/Venezuelan"	-0.0314482325974
-"category/Nail Salons"	-0.0319435879198
-"category/Resorts"	-0.0320029972585
-"cities/Queen Creek"	-0.0320276102544
-"category/Comfort Food"	-0.0320610764176
-"category/Vape Shops"	-0.0321688294714
-"category/Hardware Stores"	-0.032222215508
-"category/Chinese"	-0.0329182377514
-"category/Public Services & Government"	-0.03301538093
-"numReviewsYear/2007"	-0.0331192927283
-"category/Outdoor Gear"	-0.0332071960002
-"category/Carpet Cleaning"	-0.0342016076368
-"category/Massage"	-0.0344997558555
-"category/Chicken Wings"	-0.0359493213721
-"category/Golf"	-0.0362648888776
-"category/Italian"	-0.0363097076194
-"category/Brasseries"	-0.0373488277086
-"category/Notaries"	-0.0374290632884
-"category/Leather Goods"	-0.0376238843418
-"category/Women's Clothing"	-0.0384155265768
-"category/Botanical Gardens"	-0.0388961103871
-"category/Travel Services"	-0.0396929151996
-"category/Appliances & Repair"	-0.0402384351139
-"category/Seafood"	-0.0433554818589
-"category/Museums"	-0.0434604917765
-"cities/Goodyear"	-0.0441364331944
-"category/Accessories"	-0.0443174144283
-"category/Landmarks & Historical Buildings"	-0.0446064336516
-"category/IT Services & Computer Repair"	-0.0457816982061
-"category/Professional Services"	-0.0462294203925
-"category/Swimming Pools"	-0.0467620091288
-"category/Thai"	-0.047647506967
-"category/Peruvian"	-0.0489924802041
-"category/Auto Repair"	-0.0498906664404
-"category/Cuban"	-0.0509625063899
-"category/Vacation Rentals"	-0.0510868265016
-"category/Indian"	-0.0517357536699
-"cities/Matthews"	-0.0526515784513
-"category/Cantonese"	-0.0535008102218
-"yelpingYear/2015"	-0.0569847642846
-"cities/Glendale"	-0.0664340753057
-"category/Pakistani"	-0.0690626316731
-"category/Car Rental"	-0.070847649107
-"cities/Karlsruhe"	-0.0710854822558
-"category/Seafood Markets"	-0.0751492540021
-"cities/Surprise"	-0.0756551001417
-"cities/Peoria"	-0.0862871210976
-"category/Chocolatiers & Shops"	-0.0907802576919
-"category/Active Life"	-0.0915931030435
-"category/Brazilian"	-0.0921387503222
-"category/Casinos"	-0.0977122539582
-"cities/Scottsdale"	-0.116677981857
-"category/Local Services"	-0.118382006474
-"cities/Mesa"	-0.118999712095
-"numReviews/1 Star"	-0.123882494696
-"cities/North Las Vegas"	-0.126148569119
-"votesReviewsRatio/funny"	-0.136232170715
-"fansFriendsRatio"	-0.138790260759
-"cities/Edinburgh"	-0.14552199301
-"category/Health & Medical"	-0.147220520513
-"category/Food"	-0.155647515072
-"category/Automotive"	-0.160486742939
-"complimentsFansRatio/cute"	-0.171302925633
-"cities/Charlotte"	-0.181949511182
-"category/Home Services"	-0.1892594081
-"category/Shopping"	-0.234021572243
-"category/Beauty & Spas"	-0.240880520271
-"yelpingYear/2007"	-0.254054017591
-"yelpingYear/2008"	-0.311033042302
-"complimentsFansRatio/funny"	-0.326678906791
-"yelpingYear/2009"	-0.331529480461
-"complimentsFansRatio/photos"	-0.345764036387
-"cities/Phoenix"	-0.374205755262
-"cities/Henderson"	-0.383258363771
-"yelpingYear/2010"	-0.402107876025
-"cities/Las Vegas"	-0.403928815075
-"category/Restaurants"	-0.440676072774
-"yelpingYear/2011"	-0.566886381688
-"yelpingYear/2012"	-0.643532937061
-"yelpingYear/2013"	-0.866910774105
-"yelpingYear/2014"	-0.970387668527
-"constant"	-4.3710859337
+"eliteFriendsRatio"	3.1313849291
+"complimentsFansRatio/writer"	0.587575121903
+"complimentsFansRatio/more"	0.393078800153
+"complimentsFansRatio/hot"	0.249510794719
+"category/Airports"	0.1991938477
+"category/Burgers"	0.150263398139
+"fans"	0.148385164796
+"category/Day Spas"	0.147775610866
+"category/Beer, Wine & Spirits"	0.146671544483
+"category/Dance Clubs"	0.141598637204
+"category/Breweries"	0.128055785135
+"category/Lounges"	0.121954327418
+"category/Bagels"	0.110503744063
+"category/Arts & Entertainment"	0.10671274488
+"category/American (New)"	0.106558826681
+"category/Grocery"	0.105001828337
+"category/Buffets"	0.104388534402
+"category/Pubs"	0.102242422364
+"complimentsFansRatio/cool"	0.100782839167
+"cities/Montreal"	0.0937793500848
+"category/Cinema"	0.0917938570421
+"category/Hotels & Travel"	0.0895206854087
+"localEliteFriends"	0.0880994117958
+"category/Nightlife"	0.085074472334
+"cities/MontrÃ©al"	0.0841372197425
+"category/Food Trucks"	0.0838220078214
+"complimentsFansRatio/list"	0.0836741777483
+"category/Gastropubs"	0.0829931170258
+"category/Salad"	0.0776915262307
+"category/Sandwiches"	0.0775909562863
+"category/Steakhouses"	0.0758486037636
+"cities/Champaign"	0.0756541324148
+"category/Farmers Market"	0.0750638896123
+"category/Stadiums & Arenas"	0.074290980644
+"category/Irish"	0.0708320064053
+"category/Yelp Events"	0.0674883474663
+"category/Food Delivery Services"	0.0653988850839
+"category/American (Traditional)"	0.0646775870658
+"cities/Madison"	0.0628940326515
+"category/Breakfast & Brunch"	0.0624777860864
+"category/Wine Bars"	0.061392894205
+"category/Festivals"	0.0606602591434
+"category/Urgent Care"	0.0605507127255
+"category/Hotels"	0.0590704586221
+"category/Convenience Stores"	0.0574505778861
+"category/Mongolian"	0.0573140037311
+"category/Caribbean"	0.0569132838846
+"complimentsFansRatio/note"	0.0557304113201
+"category/Parks"	0.0556102090021
+"category/Climbing"	0.0555429097192
+"category/Juice Bars & Smoothies"	0.0553227005855
+"category/Performing Arts"	0.0548953811609
+"category/Veterinarians"	0.0533074210873
+"category/Canadian (New)"	0.0530679854962
+"category/Music Venues"	0.0527222031601
+"category/Wedding Planning"	0.0526324007647
+"category/Dog Parks"	0.0525959894162
+"category/Cupcakes"	0.0521607507527
+"category/Wholesale Stores"	0.051945529663
+"category/Ice Cream & Frozen Yogurt"	0.0513714260821
+"category/Mexican"	0.0504286167896
+"category/Poutineries"	0.0500606865394
+"category/Street Vendors"	0.0499463658726
+"category/Animal Shelters"	0.0487809799085
+"numCategories"	0.0485320090688
+"category/Bubble Tea"	0.0483719594376
+"category/Gluten-Free"	0.0466021385151
+"category/Desserts"	0.0454633813383
+"category/Tapas/Small Plates"	0.0454269792179
+"numReviewsYear/2015"	0.0454252879683
+"category/Hot Dogs"	0.0454202392012
+"category/Vegan"	0.0439473594112
+"category/Home Decor"	0.0427946418768
+"category/Oil Change Stations"	0.0422342681746
+"category/Spanish"	0.0414284214058
+"category/Yoga"	0.0413578199957
+"category/Southern"	0.0413232452821
+"category/Art Galleries"	0.0412140195826
+"category/Dive Bars"	0.0408431083193
+"category/Creperies"	0.0404445861113
+"category/Car Wash"	0.0402233903534
+"category/Coffee & Tea"	0.0399198751934
+"category/Party & Event Planning"	0.0379614372371
+"category/Latin American"	0.0373110130344
+"category/Fast Food"	0.036357985694
+"category/Specialty Schools"	0.0363283845645
+"category/Cafes"	0.0361782104938
+"category/Gay Bars"	0.0350832530667
+"cities/Laval"	0.0349230975486
+"category/Food Stands"	0.0345380002912
+"category/Hair Salons"	0.0343463192698
+"category/Mini Golf"	0.0343158452374
+"cities/Waterloo"	0.0342150356889
+"category/Shopping Centers"	0.0336170790463
+"cities/Urbana"	0.0332721612213
+"category/Champagne Bars"	0.0324022564613
+"category/Shaved Ice"	0.0323673679704
+"category/Amusement Parks"	0.0315905430969
+"category/Vegetarian"	0.0303109630959
+"category/Tea Rooms"	0.0297985697889
+"category/Piercing"	0.029796813183
+"category/Education"	0.029644458997
+"category/Medical Centers"	0.0292593623821
+"category/Furniture Stores"	0.0286873623872
+"category/Makeup Artists"	0.0285656110558
+"category/Zoos"	0.02844916493
+"yelpingYear/2005"	0.0283502510691
+"category/Health Markets"	0.0277508870845
+"category/Hiking"	0.0273445193654
+"category/Arcades"	0.0270556841227
+"category/Gelato"	0.0269097015589
+"category/Jazz & Blues"	0.0268914792369
+"category/Bars"	0.0267918615545
+"category/Bikes"	0.0265132787673
+"category/Mobile Phones"	0.0263349899824
+"category/Cosmetology Schools"	0.0263230326324
+"category/Hair Removal"	0.0260132323593
+"category/Apartments"	0.0257109520745
+"category/Pet Boarding/Pet Sitting"	0.0248988464347
+"category/Do-It-Yourself Food"	0.0247241709168
+"category/Tattoo"	0.0246620726101
+"category/Irish Pub"	0.0238886396351
+"category/Taiwanese"	0.0238762295722
+"category/Fitness & Instruction"	0.0236327251131
+"category/Outlet Stores"	0.0234503930295
+"category/Gyms"	0.022897308565
+"category/Event Planning & Services"	0.0223845733448
+"category/Orthodontists"	0.0218545906565
+"category/Specialty Food"	0.0215260921084
+"category/Bike Rentals"	0.0215053681664
+"category/Banks & Credit Unions"	0.0210299937656
+"category/Japanese"	0.0208181333762
+"category/Tobacco Shops"	0.020769052826
+"category/Brewing Supplies"	0.0202767166752
+"category/Signmaking"	0.0202439561834
+"numReviews/4stars"	0.0201905076793
+"category/Fruits & Veggies"	0.0196171253906
+"category/Dance Studios"	0.0193332116765
+"category/Playgrounds"	0.0192748528721
+"category/Trainers"	0.0192617420851
+"category/Rafting/Kayaking"	0.0191007166319
+"cities/Pointe-Claire"	0.0189897884279
+"category/Electronics"	0.0188475956022
+"cities/West Mifflin"	0.0188273609388
+"category/Bike Repair/Maintenance"	0.018715837643
+"category/Drugstores"	0.0182340537982
+"category/French"	0.0177290248983
+"votesReviewsRatio/useful"	0.017632132119
+"category/Szechuan"	0.0172848138716
+"cities/Paradise Valley"	0.0172294941134
+"cities/Clark County"	0.0166888385282
+"cities/Lasalle"	0.0166358623701
+"category/Airport Lounges"	0.0165376922702
+"cities/Dorval"	0.0162858002624
+"cities/Brossard"	0.0159459116024
+"category/Cafeteria"	0.0159386701554
+"category/Pool Halls"	0.0158973364489
+"category/Sewing & Alterations"	0.015562573958
+"category/Rock Climbing"	0.015485500379
+"category/Comedy Clubs"	0.0154309840036
+"category/Pediatricians"	0.0152640914344
+"category/Cooking Schools"	0.0151900989154
+"category/Bowling"	0.014804399173
+"category/General Dentistry"	0.0145715164863
+"category/Obstetricians & Gynecologists"	0.0141864524818
+"category/Pet Stores"	0.0138462713253
+"category/Self Storage"	0.0137936404301
+"cities/N. Las Vegas"	0.0135646172099
+"category/Boot Camps"	0.012965444628
+"category/Screen Printing/T-Shirt Printing"	0.0127037362458
+"cities/ÃŽle des Soeurs"	0.0124909652523
+"numReviews"	0.012467613447
+"category/Spray Tanning"	0.0123210874246
+"category/Pet Adoption"	0.012309858216
+"category/Aquariums"	0.0123094590155
+"category/Cycling Classes"	0.0121833360734
+"category/Kitchen & Bath"	0.0121470891897
+"category/Men's Clothing"	0.0116619970256
+"category/Hot Tub & Pool"	0.0115031249777
+"category/Kids Activities"	0.0114773357582
+"category/Limos"	0.0114317968263
+"category/Oral Surgeons"	0.0112856845281
+"category/Mortgage Brokers"	0.0110012366966
+"category/Piano Bars"	0.0109893420547
+"category/Dentists"	0.0109098381868
+"category/Tanning"	0.0108281594046
+"category/Live/Raw Food"	0.010616892646
+"cities/Outremont"	0.010539560159
+"category/Local Flavor"	0.0104849452765
+"cities/Munhall"	0.0104826682011
+"cities/Nellis AFB"	0.0104816988845
+"category/Formal Wear"	0.0102607553755
+"category/Used, Vintage & Consignment"	0.0102368913013
+"category/Baby Gear & Furniture"	0.0100261155258
+"category/Parking"	0.00998706202655
+"category/Middle Schools & High Schools"	0.00990430724224
+"category/Tires"	0.00972494189678
+"cities/Verdun"	0.0097108650594
+"category/Magicians"	0.00956580120213
+"category/Pet Training"	0.00945149514992
+"category/Massage Schools"	0.00934365210747
+"category/General Litigation"	0.00927499347156
+"category/Fabric Stores"	0.00924222559722
+"category/Pilates"	0.00919218032759
+"category/Beer Bar"	0.00915687420597
+"cities/Lachine"	0.00912739877341
+"category/Party Bus Rentals"	0.00912453525906
+"cities/Le Sud-Ouest"	0.00901512488808
+"category/Elementary Schools"	0.00869073550609
+"category/Optometrists"	0.00859832905837
+"cities/Gold Canyon"	0.0085384841776
+"category/Books, Mags, Music & Video"	0.00839547958157
+"cities/Sun Prairie"	0.00816439136551
+"cities/Mesa "	0.00789834569998
+"category/Opera & Ballet"	0.00782678734194
+"category/Cambodian"	0.00777058015993
+"category/Gift Shops"	0.00760420809295
+"cities/Goldfield"	0.00755727369188
+"category/Musical Instruments & Teachers"	0.00750186866773
+"category/Barre Classes"	0.00742588445429
+"category/Internet Service Providers"	0.00733856976058
+"category/Adult"	0.0072948627676
+"yelpingYear/2004"	0.00726468856028
+"cities/N Las Vegas"	0.00698602261083
+"category/Family Practice"	0.00696987507965
+"category/Periodontists"	0.00694515028457
+"category/Arts & Crafts"	0.00689765940319
+"category/Electricians"	0.00686580966633
+"category/Handyman"	0.00685253505494
+"category/Flea Markets"	0.00677541653934
+"category/Blow Dry/Out Services"	0.00664796132591
+"cities/Saint-Laurent"	0.0066173137994
+"cities/Sedona"	0.00659843295209
+"category/Castles"	0.00659399113217
+"category/Bartenders"	0.00659254447452
+"category/Laotian"	0.00640448162052
+"category/Cheese Shops"	0.00637785094085
+"cities/Casa Grande"	0.00629573509232
+"category/Burmese"	0.00623945851264
+"category/Truck Rental"	0.0061951781589
+"cities/Fort McDowell"	0.00606330088232
+"category/Police Departments"	0.00603547613829
+"category/Weight Loss Centers"	0.00594543051446
+"category/Disc Golf"	0.00592894707604
+"category/Antiques"	0.00583743966509
+"category/University Housing"	0.00573988522995
+"cities/MontÃ©al"	0.00570748845623
+"category/Divorce & Family Law"	0.00568396231293
+"category/Mountain Biking"	0.00566975820262
+"cities/North Las Vegas "	0.00564331373795
+"cities/Chomedey"	0.00563351027989
+"cities/Pittsburgh"	0.00563016341359
+"category/Buses"	0.00550379573295
+"cities/Cave Creek"	0.00546225032393
+"category/Videos & Video Game Rental"	0.00543705711664
+"cities/West Homestead"	0.00541922828513
+"category/Bankruptcy Law"	0.00539180799745
+"category/Jewelry Repair"	0.00534001450825
+"category/Radio Stations"	0.00532288022004
+"cities/Kirkland"	0.00530451954927
+"category/Singaporean"	0.00529945324637
+"category/Boat Charters"	0.00523411947665
+"cities/Ahwatukee"	0.00521773309445
+"cities/Greenfield Park"	0.00521579451743
+"category/Gastroenterologist"	0.00521480326377
+"category/Property Management"	0.00517799539007
+"category/Airlines"	0.00516813861681
+"cities/CommunautÃ©-Urbaine-de-MontrÃ©al"	0.00512233832802
+"category/Bridal"	0.00509110593752
+"category/Pretzels"	0.00507353646128
+"cities/South Queensferry"	0.005050124352
+"category/Australian"	0.00503430618461
+"category/Rugs"	0.0050277339892
+"category/Flight Instruction"	0.00494516459043
+"cities/Swissvale"	0.00490925578197
+"category/Swimming Lessons/Schools"	0.00489999729026
+"cities/Youngtown"	0.00489588397577
+"cities/Black Canyon City"	0.00473260744789
+"category/Transportation"	0.00471530801382
+"cities/Pittsburgh/Waterfront"	0.00467776704457
+"cities/Beaconsfield"	0.00467100549781
+"category/Scandinavian"	0.00447764156657
+"cities/Waddell"	0.00443724502376
+"cities/Sun Lakes"	0.00443516361399
+"cities/Eggenstein-Leopoldshafen"	0.00433606327724
+"cities/Henderson (Stephanie)"	0.00433491662432
+"category/Uniforms"	0.00432919833732
+"cities/Homestead"	0.00430233705644
+"category/Face Painting"	0.00427100772401
+"category/Motorcycle Gear"	0.0042571215945
+"cities/McKees Rocks"	0.00420793044136
+"category/Traditional Chinese Medicine"	0.00416537603338
+"category/Skating Rinks"	0.0040665613594
+"cities/De Forest"	0.00406470824391
+"cities/Bellevue"	0.00406133453128
+"category/Salvadoran"	0.0040563162235
+"category/Dance Schools"	0.00404627053683
+"cities/Bridgeville"	0.0039935298884
+"category/Embroidery & Crochet"	0.00399034045315
+"category/Martial Arts"	0.0039233022923
+"category/Horseback Riding"	0.0039210667268
+"category/Distilleries"	0.00391193376357
+"category/Employment Agencies"	0.00387860575589
+"cities/L'ÃŽle-des-Soeurs"	0.00383031167141
+"category/Soup"	0.00382887716641
+"cities/Savoy"	0.00377362152449
+"category/Public Plazas"	0.00376475491253
+"category/Paddleboarding"	0.00371140144621
+"cities/Huntersville"	0.00370413655518
+"cities/Millvale"	0.00361820669115
+"category/Discount Store"	0.00360706996093
+"cities/Columbus"	0.00354338606505
+"category/Musical Instrument Services"	0.00353848711916
+"cities/Pierrefonds"	0.0035339923732
+"cities/Sharpsburg"	0.00338548657639
+"cities/Chateau"	0.00330522508846
+"cities/Lower Lawrenceville"	0.0033010793479
+"cities/Litchfield Park "	0.00327617231843
+"category/Hostels"	0.00322307915489
+"cities/San Tan Valley"	0.00318177457026
+"cities/La Prairie"	0.00316057817972
+"cities/Sainte-Ann-De-Bellevue"	0.00316019772127
+"cities/Cambridge"	0.00313492111355
+"cities/Sainte-Anne-de-Bellevue"	0.00310962894578
+"category/Plus Size Fashion"	0.00308441311785
+"category/Piano Services"	0.00307771376396
+"category/Commercial Real Estate"	0.00306025961733
+"cities/Dollard-des-Ormeaux"	0.00299185150531
+"category/Nanny Services"	0.00296809542242
+"category/Trinidadian"	0.00293721982177
+"cities/Florence"	0.00291126165297
+"category/Skate Parks"	0.00290565944761
+"category/Fire Protection Services"	0.00289242655081
+"cities/Whitehall"	0.00286150384813
+"category/Curry Sausage"	0.00284029673054
+"category/Endodontists"	0.00283629867398
+"category/Florists"	0.00275096941201
+"numReviewsYear/2004"	0.00273389176155
+"category/Egyptian"	0.00273057662863
+"cities/Sainte-Anne-De-Bellevue"	0.0026981977304
+"category/Butcher"	0.0026403622654
+"category/Tennis"	0.00259533694358
+"cities/Ingram"	0.00255961244859
+"category/Battery Stores"	0.00251613250137
+"cities/Centennial Hills"	0.00250958468518
+"category/Permanent Makeup"	0.00249435689709
+"cities/Oakland"	0.00248316314377
+"category/Junk Removal & Hauling"	0.00244544696926
+"cities/Blainville"	0.00244092920686
+"category/Orthopedists"	0.00242326758227
+"category/Building Supplies"	0.00238850405458
+"category/Osteopathic Physicians"	0.00235647500433
+"category/Tanning Beds"	0.00232227112442
+"cities/Saint Jacobs"	0.00230950964298
+"category/Archery"	0.00230561674082
+"cities/Cottage Grove"	0.00229673736586
+"cities/Rankin"	0.00229456509166
+"cities/Newberry Springs"	0.00229296284182
+"cities/LaSalle"	0.00226314775328
+"cities/Sainte-Therese"	0.00223057973493
+"category/Auto Glass Services"	0.00219756179482
+"cities/Green Tree"	0.00219489922865
+"cities/Pittsburg"	0.00217940290862
+"cities/Wittmann"	0.00214099321858
+"cities/Banksville"	0.00213034260804
+"category/Oriental"	0.00212917455103
+"cities/Quebec"	0.00206511956495
+"category/Surf Shop"	0.00206449095693
+"cities/RosemÃ¨re"	0.00205748715958
+"category/Pub Food"	0.00205522126515
+"cities/MontrÃ©al-Ouest"	0.00197988333307
+"category/Chiropractors"	0.00193628227982
+"category/Business Law"	0.00187456459409
+"cities/Tempe"	0.00186769216963
+"category/Guest Houses"	0.00184133699727
+"category/Life Coach"	0.00182794550321
+"category/Gymnastics"	0.00182340078144
+"cities/Roxboro"	0.00182048039726
+"category/Neurologist"	0.00176864740211
+"cities/Mount Holly"	0.00174315837035
+"category/Herbs & Spices"	0.00171320819505
+"cities/Ft. Mill"	0.0017130634192
+"category/Iberian"	0.00170506016552
+"category/Men's Hair Salons"	0.00169693512364
+"cities/Desert Ridge"	0.00164641133561
+"cities/South Hills"	0.0016081332786
+"category/Cosmetic Surgeons"	0.0016050352481
+"category/Nutritionists"	0.00157565623958
+"cities/Saint-Leonard"	0.00155953754496
+"cities/Cote-des-Neiges-Notre-Dame-de-Grace"	0.00154803936598
+"cities/Henderson (Green  Valley)"	0.00148835720675
+"category/Screen Printing"	0.00148184076002
+"avgReviewLength"	0.00146931628634
+"category/Endocrinologists"	0.00146721909634
+"category/Beaches"	0.0014409477044
+"cities/Phoenix-Ahwatukee"	0.00138794149353
+"category/Personal Chefs"	0.00132396300778
+"cities/Belmont"	0.00131229695552
+"cities/Fountain Hills"	0.00131217306516
+"category/Child Care & Day Care"	0.0012548852773
+"category/DJs"	0.00124483967459
+"cities/Terrebonne"	0.00123506894939
+"category/Home Inspectors"	0.00122740254273
+"category/Real Estate"	0.00121173737595
+"category/Educational Services"	0.00118134290618
+"cities/Robinson Township"	0.00117085143153
+"cities/Laveen"	0.00113983987924
+"cities/Loanhead"	0.00111525390563
+"cities/Vimont"	0.00110631235132
+"category/Real Estate Law"	0.00109219359609
+"cities/Mount Washington"	0.00108098833681
+"category/Courthouses"	0.00106825318931
+"category/Day Camps"	0.00106185881761
+"category/Knitting Supplies"	0.00105427169824
+"category/Pop-up Shops"	0.00103944364574
+"category/Paintball"	0.00101383068608
+"cities/Henderson and Las vegas"	0.000964430674191
+"cities/Stutensee"	0.000927756164308
+"category/Sports Wear"	0.000907300055853
+"cities/Charlotte (University)"	0.000883980648792
+"category/Special Education"	0.000871769574223
+"cities/Edgewood"	0.000870860013578
+"cities/South Las Vegas"	0.000870581310823
+"category/Beer Gardens"	0.000859926537926
+"cities/Mcfarland"	0.000823900171927
+"cities/NELLIS AFB"	0.00081958792844
+"category/Waxing"	0.000803264353346
+"category/Water Delivery"	0.000774235192867
+"category/Ear Nose & Throat"	0.00077097056353
+"cities/Henderson, NV 89074"	0.000765543721055
+"cities/Conestogo"	0.000755316458552
+"cities/Rosemere"	0.000731949195463
+"category/Prosthetics"	0.000707766844289
+"category/Mailbox Centers"	0.000684235042742
+"category/CPR Classes"	0.00068122897244
+"cities/Waxhaw"	0.000681074330824
+"category/Mattresses"	0.00067380312355
+"cities/Longueuil"	0.000664280014941
+"cities/Braddock"	0.000656217773722
+"category/Basketball Courts"	0.000642064303174
+"category/Rheumatologists"	0.000641934835489
+"cities/Fountain Hls"	0.00062610429753
+"category/Personal Assistants"	0.000607005880639
+"cities/Stoughton"	0.000591616194652
+"cities/Ratho"	0.000567752688749
+"category/Austrian"	0.00054454816374
+"category/Cocktail Bars"	0.000540602045081
+"category/Towing"	0.000514994290231
+"category/Home Organization"	0.000511800046505
+"category/Clowns"	0.000505623789197
+"category/Social Clubs"	0.000497718597638
+"category/Glass & Mirrors"	0.000453474941609
+"cities/St Jacobs"	0.000447942789361
+"cities/Allegheny"	0.000430120967909
+"cities/Squirrel Hill"	0.000397791962066
+"cities/Heidelberg"	0.00039577621103
+"category/Art Schools"	0.000355427422877
+"cities/Dravosburg"	0.000346050535411
+"category/Tai Chi"	0.000340033501686
+"cities/L'ÃŽle-Bizard"	0.000339457367071
+"category/Retirement Homes"	0.000337369028726
+"category/British"	0.000322931965515
+"category/Izakaya"	0.000296352621779
+"cities/Straiton"	0.000294443564071
+"category/First Aid Classes"	0.000287548405212
+"cities/Bloomfield"	0.000283075323649
+"cities/Scotland"	0.000268733717209
+"category/Payroll Services"	0.000264938623813
+"cities/Le Vieux-Port"	0.000260640867009
+"cities/Bethel Park"	0.000251650639656
+"cities/Cramond Bridge"	0.000249712140723
+"cities/Dormont"	0.000245395367103
+"category/Teppanyaki"	0.000232936657608
+"category/Career Counseling"	0.000219106751754
+"cities/Dollard-Des-Ormeaux"	0.000210273610144
+"cities/Deux-Montagnes Regional County Municipality"	0.000206492041459
+"cities/Bellvue"	0.000198529230538
+"category/Advertising"	0.000160800141312
+"category/Reiki"	0.000148166835486
+"category/Vacation Rental Agents"	0.000145636548782
+"category/Motorcycle Rental"	0.000138307228693
+"cities/Saguaro Lake"	0.00013344214523
+"cities/Stanfield"	0.000131415748195
+"category/Flowers"	0.000129122785286
+"category/Speech Therapists"	0.000103879705967
+"cities/Saint-laurent"	9.06230017695e-05
+"cities/Pfinztal"	7.56818537444e-05
+"cities/MontrÃ©al-Nord"	6.94979523239e-05
+"cities/Nellis Air Force Base"	6.48890401741e-05
+"cities/Mirabel"	6.13596875166e-05
+"category/Horse Boarding"	5.7110953174e-05
+"category/Massage Therapy"	5.47560600811e-05
+"category/Skydiving"	4.93855267585e-05
+"cities/McFarland"	3.46788777769e-05
+"category/Home Staging"	3.43397164391e-05
+"cities/South Gyle"	3.30117388102e-05
+"cities/Roslin"	2.57925763247e-05
+"category/Bangladeshi"	2.57591567709e-05
+"cities/Saint-Eustache"	1.68554192437e-05
+"cities/Boisbriand"	1.62983797187e-05
+"category/General Festivals"	9.17151546006e-06
+"category/CSA"	1.30265601651e-06
+"cities/Mt. Oliver Boro"	2.42549086103e-10
+"cities/Saint-Hubert"	-2.44828302993e-06
+"cities/1023 E Frye Rd"	-1.31054304651e-05
+"category/Pole Dancing Classes"	-1.69449264425e-05
+"cities/Old Montreal"	-1.89485151605e-05
+"cities/chandler"	-2.5354447393e-05
+"cities/Montreal-Ouest"	-2.96516362155e-05
+"category/Customized Merchandise"	-3.34584084613e-05
+"cities/Jockgrim"	-3.3564577684e-05
+"category/Currency Exchange"	-3.56981954944e-05
+"cities/Stowe Township"	-3.5831113291e-05
+"cities/Nboulder City"	-3.64313170897e-05
+"cities/Montreal-West"	-4.20109988281e-05
+"cities/Surprise Crossing"	-4.22057082179e-05
+"cities/Mascouche"	-4.35569322526e-05
+"cities/Stutensee neuthard"	-4.47912618106e-05
+"category/Bike Sharing"	-4.57334011868e-05
+"cities/Baie-D'urfe"	-4.88175883544e-05
+"category/Hang Gliding"	-5.4019330915e-05
+"cities/Chandler-Gilbert"	-5.43624313697e-05
+"cities/Dollard-Des Ormeaux"	-5.72888102831e-05
+"category/Television Stations"	-5.81873008736e-05
+"category/Car Dealers"	-7.18632662445e-05
+"cities/Hagenbach"	-7.31289886262e-05
+"category/Doulas"	-7.43657107479e-05
+"cities/Bocholt"	-8.15887056028e-05
+"cities/Mt Lebanon"	-8.30993770029e-05
+"cities/Delmont"	-8.3896417289e-05
+"cities/Newington"	-8.49262534804e-05
+"cities/St. Jacobs"	-9.15047481126e-05
+"category/Home & Garden"	-9.90039346947e-05
+"cities/Sunrise"	-9.90526776604e-05
+"cities/LAS VEGAS"	-0.000100845591855
+"category/Mosques"	-0.000101474730206
+"category/Art Classes"	-0.000104391922158
+"cities/Whitney"	-0.000111678005402
+"category/Lice Services"	-0.000114288478015
+"cities/Victoria Park"	-0.000114350350152
+"cities/Southside Flats"	-0.000115334254512
+"category/Metal Fabricators"	-0.000115474883872
+"category/Gutter Services"	-0.000116011620758
+"cities/Deux-Montagnes"	-0.000118558964893
+"cities/Stockbridge"	-0.000121720852802
+"cities/Tucson"	-0.000121754487903
+"category/Firearm Training"	-0.000125976689335
+"category/Home Health Care"	-0.000127480287408
+"category/Walk-in Clinics"	-0.0001325659779
+"category/Psychologists"	-0.000133898379144
+"category/Eastern German"	-0.000143541173353
+"cities/Inverkeithing"	-0.000143674844246
+"cities/Mount Royal"	-0.00014386153959
+"category/Haitian"	-0.000144309036627
+"cities/Arlington"	-0.000152517501225
+"category/Serbo Croatian"	-0.000158378354517
+"category/Libraries"	-0.000167679198015
+"cities/Sun City Anthem"	-0.000168662817735
+"category/Security Services"	-0.000172029917484
+"cities/Henderson "	-0.00017228305476
+"cities/Upper Saint Clair"	-0.000175903845094
+"cities/Charlotte "	-0.00017746966969
+"category/Meditation Centers"	-0.000178737920637
+"category/Legal Services"	-0.00018030630684
+"cities/Metro Phoenix"	-0.000184472631652
+"category/High Fidelity Audio Equipment"	-0.000189274428112
+"category/Swiss Food"	-0.000201904722164
+"category/Cabaret"	-0.000209391947015
+"cities/Scottsdale, Phoenix, Chandler, Gilbert"	-0.000224714028209
+"category/Fireplace Services"	-0.000225440460791
+"cities/Durmersheim"	-0.000225467767188
+"category/Bartending Schools"	-0.000227250715518
+"category/Walking Tours"	-0.000234436434591
+"cities/Phoenix Sky Harbor Center"	-0.000237025295925
+"cities/Bruchsal"	-0.000246514811
+"category/Oncologist"	-0.000256045860445
+"cities/Fabreville"	-0.000257527736598
+"cities/Scottsdale Country Acres"	-0.000258968723705
+"numTips"	-0.000261412748429
+"category/Architects"	-0.000270319679575
+"category/Horse Racing"	-0.000271950223572
+"cities/Last Vegas"	-0.000275552942423
+"category/Sugaring"	-0.000287110416726
+"category/Donairs"	-0.000289072086981
+"cities/Scottdale"	-0.000291078345108
+"category/Religious Schools"	-0.000295640761107
+"cities/Crafton"	-0.000300274830708
+"category/Immigration Law"	-0.000304139119677
+"category/Rolfing"	-0.000305076171551
+"cities/Forchheim"	-0.000311759456981
+"category/Septic Services"	-0.000312582611851
+"cities/Central Henderson"	-0.000321182418397
+"cities/Etna"	-0.000323624045647
+"category/Bakeries"	-0.000323850526666
+"cities/San Diego"	-0.000325336762519
+"cities/St Clements"	-0.00032730776455
+"category/Cardiologists"	-0.000333055088063
+"cities/Henderston"	-0.000360423080979
+"cities/City of Edinburgh"	-0.000371030998251
+"category/Boat Dealers"	-0.000371343844714
+"category/Cultural Center"	-0.000375930525544
+"cities/Coolidge"	-0.00037821064022
+"cities/Seattle"	-0.000384060825568
+"category/Psychiatrists"	-0.000384824242376
+"cities/Bapchule"	-0.000396569047665
+"cities/Fort mill"	-0.000403151171217
+"category/Insulation Installation"	-0.000405534577115
+"cities/W Spring Valley"	-0.000405694583294
+"category/RV Repair"	-0.00040643183581
+"cities/Mount Lebanon"	-0.00040705743196
+"cities/Penicuik"	-0.000414914671243
+"cities/Mckees Rocks"	-0.000415217790311
+"cities/Lake Las Vegas"	-0.000431135335968
+"category/Hearing Aid Providers"	-0.00045414873339
+"category/Shutters"	-0.000457676130516
+"category/Anesthesiologists"	-0.000467171627685
+"category/Boat Repair"	-0.000469356530243
+"category/Private Investigation"	-0.000478749567184
+"cities/University"	-0.000490952660902
+"category/Race Tracks"	-0.000491330951378
+"cities/Cultural District"	-0.000500309914586
+"cities/N W Las Vegas"	-0.000513357745993
+"cities/Balerno"	-0.000516658351959
+"category/Web Design"	-0.000519388023451
+"cities/Rock Hill"	-0.00053114088274
+"cities/Pointe-Aux-Trembles"	-0.000534281564355
+"category/Recycling Center"	-0.000541804092105
+"cities/Los Angeles"	-0.000544266195927
+"cities/Leith"	-0.000546627174745
+"cities/Pittsburrgh"	-0.000549550277131
+"cities/Las Vegas East"	-0.000553861558176
+"cities/Eagan"	-0.000566905391892
+"cities/W Summerlin"	-0.000567304156262
+"category/Golf Equipment Shops"	-0.000568951767249
+"category/Uzbek"	-0.000576944314202
+"category/Matchmakers"	-0.000597340460909
+"category/Eyewear & Opticians"	-0.000603827901293
+"category/Private Tutors"	-0.000617646790089
+"category/Food Tours"	-0.000628731690435
+"category/Chimney Sweeps"	-0.000630198090321
+"cities/New Dundee"	-0.000633496412962
+"cities/Lawrenceville"	-0.000636917537123
+"cities/Rio Verde"	-0.00064781273092
+"cities/Water of Leith"	-0.000663001151765
+"category/Shredding Services"	-0.000666957966359
+"cities/Ste-Rose"	-0.000669972586725
+"cities/Deforest"	-0.000698153004923
+"category/Orthotics"	-0.000699860581078
+"cities/Portobello"	-0.000700366078151
+"cities/Pointe Claire"	-0.000711953411132
+"cities/Saint-Lambert"	-0.000737865227442
+"cities/Sainte-ThÃ©rÃ¨se"	-0.00082074886641
+"cities/Fort Mcdowell"	-0.000821418953311
+"category/Employment Law"	-0.000847033571453
+"category/Czech"	-0.000848332812476
+"category/Modern European"	-0.000853377408494
+"category/Officiants"	-0.000859014309934
+"category/Acupuncture"	-0.000873916185441
+"category/Bail Bondsmen"	-0.000886953390249
+"category/Persian/Iranian"	-0.000902547544664
+"cities/Roosevelt"	-0.00090360061468
+"numFriends"	-0.000906895623496
+"category/International"	-0.000913764073252
+"category/Valet Services"	-0.000928538699695
+"cities/Las Vegas "	-0.000945261833949
+"category/Telecommunications"	-0.000973038233042
+"category/Aquarium Services"	-0.00097580906482
+"category/Car Share Services"	-0.000976964090075
+"cities/Saint Laurent"	-0.000981328941738
+"cities/London"	-0.000990495751348
+"category/Ethiopian"	-0.00102175650757
+"cities/Mint Hill"	-0.00102630665741
+"cities/McKeesport"	-0.00107138433525
+"cities/Anthem"	-0.00107394303554
+"cities/Tonto Basin"	-0.00110386010378
+"category/Barbers"	-0.00112457391337
+"cities/Cote-Saint-Luc"	-0.00112600217193
+"category/Health Retreats"	-0.00112662038584
+"category/Beverage Store"	-0.00115850079175
+"cities/Summerlin South"	-0.00116586545118
+"category/Pets"	-0.00117731170298
+"cities/Pittsburgh/S. Hills Galleria"	-0.00118222692418
+"category/Refinishing Services"	-0.00118397434169
+"category/Wine Tours"	-0.00119007608954
+"category/Pita"	-0.00120267715797
+"category/Hospice"	-0.00126105698278
+"category/Cooking Classes"	-0.00126720625535
+"cities/Arcadia"	-0.00127137497084
+"cities/Stowe"	-0.00127926148115
+"category/Lactation Services"	-0.00130869159278
+"cities/Brookline"	-0.0013476156323
+"cities/Luke AFB"	-0.00137620462189
+"category/Photography Stores & Services"	-0.00139856724268
+"category/DUI Law"	-0.00140127968354
+"category/Midwives"	-0.00140528452857
+"category/Language Schools"	-0.00140793473184
+"category/Medical Transportation"	-0.001429482336
+"category/Ethnic Grocery"	-0.0014367427134
+"category/Radiologists"	-0.00144883120649
+"category/Food Banks"	-0.00150679779721
+"cities/Dane"	-0.0015090969143
+"cities/Firth of Forth"	-0.00154679496248
+"cities/Clover"	-0.00155936726846
+"category/Tree Services"	-0.00156155944904
+"category/Trophy Shops"	-0.00157074477212
+"cities/Tega Cay"	-0.00158807418505
+"category/Occupational Therapy"	-0.00160691386388
+"category/Christmas Markets"	-0.00164247919982
+"category/Auto Parts & Supplies"	-0.00165584695159
+"cities/Buckeye"	-0.00168336776516
+"category/Surgeons"	-0.00173099844242
+"cities/Castle Shannon"	-0.00173848236616
+"cities/Sun City West"	-0.00177583520928
+"category/Boxing"	-0.00177935241227
+"category/Wigs"	-0.00180451793319
+"category/Thrift Stores"	-0.00181520594075
+"category/Sporting Goods"	-0.00183947568254
+"cities/Cramond"	-0.00187740355202
+"category/Video/Film Production"	-0.00190661862269
+"cities/W Henderson"	-0.00191325720191
+"category/Photo Booth Rentals"	-0.00192705307334
+"cities/DeForest"	-0.00196996217962
+"category/Post Offices"	-0.00197710469524
+"cities/Paradise"	-0.00198109369662
+"category/Interior Design"	-0.00199102967168
+"cities/Brentwood"	-0.00199648794116
+"category/Audiologist"	-0.00202933063053
+"category/Flowers & Gifts"	-0.00204580806207
+"category/Damage Restoration"	-0.00206292500315
+"cities/Anjou"	-0.00209645891951
+"category/Preschools"	-0.00216393821452
+"category/Country Dance Halls"	-0.00218125130425
+"category/Firewood"	-0.00218488891502
+"category/Drywall Installation & Repair"	-0.00218668838844
+"cities/Guadalupe"	-0.00220870316978
+"cities/Monroe"	-0.00221189340708
+"category/Bespoke Clothing"	-0.00221342938073
+"category/Synagogues"	-0.00222222941068
+"category/Tutoring Centers"	-0.00223488489103
+"category/Rehabilitation Center"	-0.00224682172559
+"cities/El Mirage"	-0.00225151412118
+"category/RV Dealers"	-0.00229685529732
+"cities/Sainte-Genevieve"	-0.00229734223869
+"category/Masonry/Concrete"	-0.00230161743351
+"category/Solar Installation"	-0.00230733034678
+"category/Shared Office Spaces"	-0.00233633929853
+"cities/PHOENIX"	-0.00235538179356
+"category/Batting Cages"	-0.00237594732959
+"category/Coffee & Tea Supplies"	-0.00240709867639
+"cities/Pheonix"	-0.00242755499162
+"category/Windshield Installation & Repair"	-0.00249758516981
+"category/Art Supplies"	-0.00251145273489
+"category/Accountants"	-0.00256383242869
+"cities/Lasswade"	-0.00257662402369
+"category/Adult Entertainment"	-0.00258486189523
+"cities/Allentown"	-0.00261072361916
+"cities/WÃ¶rth am Rhein"	-0.00262255079989
+"category/Car Stereo Installation"	-0.00264613154112
+"category/Registration Services"	-0.00268937822556
+"cities/Central City Village"	-0.00269234740491
+"cities/Mc Kees Rocks"	-0.00269393014854
+"category/Landscape Architects"	-0.00272913680925
+"category/RV Rental"	-0.00277434436602
+"cities/C Las Vegas"	-0.00281568543367
+"category/Video Game Stores"	-0.00282414351252
+"cities/Mont-Royal"	-0.00282571634711
+"cities/North Scottsdale"	-0.00282980307
+"category/Cabinetry"	-0.00286875438352
+"category/Buddhist Temples"	-0.0029601975286
+"category/Auction Houses"	-0.00297793092097
+"category/Recording & Rehearsal Studios"	-0.00298895237295
+"category/Office Cleaning"	-0.00301349067849
+"category/Furniture Repair"	-0.00305313156076
+"category/Hindu Temples"	-0.00306460148747
+"cities/Weddington"	-0.00311111871754
+"category/Test Preparation"	-0.00312778085039
+"category/Fences & Gates"	-0.00314944678839
+"cities/Boucherville"	-0.00315130767197
+"category/Ski Resorts"	-0.00316517600244
+"category/Pressure Washers"	-0.00318546986407
+"cities/Bonnyrigg"	-0.00320291258873
+"category/Musicians"	-0.00334550299538
+"cities/Bonnyrigg and Lasswade"	-0.00339756807327
+"cities/Montreal-Nord"	-0.00344351466791
+"cities/Ettlingen"	-0.0034666168533
+"cities/Waunakee"	-0.00346915805809
+"cities/Dalgety Bay"	-0.00354144111613
+"category/Public Transportation"	-0.00354963965572
+"category/Funeral Services & Cemeteries"	-0.00355504689661
+"category/Hot Air Balloons"	-0.00358195651118
+"category/Vocational & Technical School"	-0.0036155679029
+"cities/Juniper Green"	-0.0036294073549
+"category/Fertility"	-0.00363532046664
+"category/Powder Coating"	-0.00365715063542
+"category/Estate Planning Law"	-0.00365959796163
+"category/Used Bookstore"	-0.00366229357816
+"category/Videographers"	-0.00368717816215
+"category/Bus Tours"	-0.00371592460622
+"category/Talent Agencies"	-0.00376278068957
+"category/Gold Buyers"	-0.00380727254772
+"cities/Fort Kinnaird"	-0.00381830118634
+"cities/Wilkinsburg"	-0.00384199794408
+"maxNumSlidingReviews"	-0.00385789079378
+"category/Lighting Fixtures & Equipment"	-0.0038706341534
+"category/Wok"	-0.00388945422337
+"category/Saunas"	-0.00391222764454
+"cities/Regent Square"	-0.00394806953467
+"cities/Mattews"	-0.00398449687345
+"category/Diving"	-0.00398472450038
+"category/Cosmetic Dentists"	-0.00398577654783
+"cities/Rheinstetten"	-0.0039956003593
+"category/Allergists"	-0.00404017601491
+"category/Cannabis Clinics"	-0.00406578353749
+"cities/Carnegie"	-0.00407005516847
+"cities/Nellis Afb"	-0.00407263307714
+"cities/Old Town"	-0.00408840464993
+"cities/Karlsbad"	-0.00408936438926
+"category/Scuba Diving"	-0.00409099157441
+"cities/North Queensferry"	-0.00411711468518
+"cities/Downtown"	-0.00413822136129
+"cities/Westmount"	-0.00414423013078
+"category/Party Equipment Rentals"	-0.00417476230445
+"category/Challenge Courses"	-0.00421525773642
+"cities/Glendale Az"	-0.00424312255239
+"category/Pizza"	-0.00427762997743
+"category/Data Recovery"	-0.00429918833769
+"cities/New Town"	-0.00432317176004
+"category/Fireworks"	-0.00437602802269
+"category/Urologists"	-0.00441498222152
+"category/Auto Detailing"	-0.00455988704187
+"category/Irrigation"	-0.00460434649058
+"category/Auto Loan Providers"	-0.00460821615961
+"cities/Tonopah"	-0.00467097950559
+"numEliteFriends"	-0.00467947395889
+"category/Pool & Hot Tub Service"	-0.00469240220007
+"category/Pasta Shops"	-0.00473798564692
+"category/Hospitals"	-0.0047574975513
+"numReviews/5stars"	-0.00478308398717
+"cities/Waldbronn"	-0.004806502857
+"cities/Aspinwall"	-0.0048160962674
+"cities/Midlothian"	-0.00482118497882
+"category/Hobby Shops"	-0.00482442429416
+"category/Falafel"	-0.00483354859785
+"category/Hats"	-0.0048445462161
+"category/Kebab"	-0.00493671774031
+"cities/Woolwich"	-0.00498411071836
+"category/Hypnosis/Hypnotherapy"	-0.00500456658721
+"category/Bed & Breakfast"	-0.00507956048306
+"cities/Windsor"	-0.0050819174927
+"category/Summer Camps"	-0.00508278086713
+"cities/Weingarten"	-0.00510096867104
+"category/Hot Pot"	-0.00510222801038
+"category/Laser Hair Removal"	-0.00512854582755
+"category/Asian Fusion"	-0.00515087348137
+"category/Criminal Defense Law"	-0.0053341114931
+"category/Framing"	-0.00539372928538
+"category/Home Theatre Installation"	-0.00543619056177
+"category/Investing"	-0.00548163625794
+"category/Medical Supplies"	-0.00552239436308
+"cities/Spring Valley"	-0.00555757287897
+"cities/Higley"	-0.00556657934444
+"category/Psychics & Astrologers"	-0.00563435475736
+"cities/Indian Land"	-0.0057116371549
+"category/Watch Repair"	-0.00572157568889
+"category/Medical Spas"	-0.0057664929884
+"category/Furniture Reupholstery"	-0.00584146451869
+"category/Go Karts"	-0.0058728141225
+"category/Organic Stores"	-0.00588231351456
+"category/Window Washing"	-0.0059284750341
+"category/Public Services & Government"	-0.0060196139661
+"category/Fishing"	-0.00603643111488
+"category/Propane"	-0.00609466720343
+"category/Boating"	-0.00614097804515
+"category/Surfing"	-0.006157381266
+"category/Patisserie/Cake Shop"	-0.00618291421087
+"category/Toy Stores"	-0.0062290439101
+"category/Resorts"	-0.00625724154491
+"category/Airport Shuttles"	-0.00629661647485
+"category/Check Cashing/Pay-day Loans"	-0.00647185743193
+"category/Campgrounds"	-0.00647393581889
+"category/Dominican"	-0.00681097682007
+"category/Lebanese"	-0.00690105593818
+"category/Personal Injury Law"	-0.00694451983921
+"cities/Queensferry"	-0.00703104352641
+"category/Naturopathic/Holistic"	-0.00703407544716
+"category/Doctors"	-0.00704889446492
+"cities/Concord Mills"	-0.00711063731435
+"category/Pharmacy"	-0.00719906950621
+"cities/Tortilla Flat"	-0.00722272908057
+"category/Dog Walkers"	-0.00722671151091
+"cities/Wesley Chapel"	-0.00725917242682
+"category/Pet Groomers"	-0.00726760964465
+"cities/Morristown"	-0.007270380537
+"category/Auto Customization"	-0.0073851931969
+"category/Shades & Blinds"	-0.00747953476949
+"category/Bavarian"	-0.0075109997649
+"category/Souvenir Shops"	-0.00753764453682
+"category/Department Stores"	-0.00755784291937
+"category/Ukrainian"	-0.00766501177324
+"category/Hawaiian"	-0.00780047966175
+"category/Home Window Tinting"	-0.00794831762296
+"category/Windows Installation"	-0.00795154769497
+"cities/Harrisburg"	-0.00797865391508
+"category/Korean"	-0.00800273492731
+"category/Driving Schools"	-0.00803497353724
+"cities/Middleton"	-0.00812094794117
+"votesReviewsRatio/cool"	-0.00816859685972
+"cities/Maricopa"	-0.00819052308153
+"category/Fashion"	-0.00824175412013
+"category/Laser Tag"	-0.00831162587879
+"category/Adult Education"	-0.00831434164726
+"category/Motorcycle Repair"	-0.00839451150108
+"category/Dermatologists"	-0.00854711293772
+"cities/New River"	-0.00856165584121
+"category/Baden"	-0.00859830019013
+"category/Office Equipment"	-0.00859989509621
+"cities/Mc Farland"	-0.00868907389355
+"cities/Dalkeith"	-0.0087319169304
+"cities/Shadyside"	-0.00875580558047
+"category/Swimwear"	-0.00884003032752
+"category/Utilities"	-0.00889132694925
+"cities/Musselburgh"	-0.00898721018912
+"numReviewsYear/2014"	-0.00909359065067
+"cities/Newbridge"	-0.00917913326063
+"category/Plumbing"	-0.00924168664649
+"category/Skin Care"	-0.00929778392639
+"category/Hungarian"	-0.00937665876494
+"category/Candy Stores"	-0.00938956889722
+"category/Argentine"	-0.00946912320488
+"category/Maternity Wear"	-0.0095269227951
+"category/Costumes"	-0.00954051027935
+"category/Tax Services"	-0.00959003838176
+"cities/Lake Wylie"	-0.00962666602369
+"category/Internal Medicine"	-0.00977011300562
+"category/Indonesian"	-0.00981778735578
+"category/Pet Services"	-0.0101131708769
+"cities/Monona"	-0.010156155903
+"cities/Verona"	-0.0101776554834
+"category/Carpet Installation"	-0.0102954790996
+"category/Laser Eye Surgery/Lasik"	-0.0106937599685
+"category/Event Photography"	-0.01075739932
+"category/Turkish"	-0.0108707138661
+"numReviewsYear/2006"	-0.010886446095
+"category/Home Cleaning"	-0.0108865129592
+"category/Golf Equipment"	-0.0109462800286
+"category/Pediatric Dentists"	-0.0109667281335
+"category/Sports Medicine"	-0.0109703267568
+"category/Sports Clubs"	-0.0111436508096
+"cities/Summerlin"	-0.0111451898827
+"category/Marketing"	-0.0111486821584
+"category/Basque"	-0.0111617655151
+"cities/Fitchburg"	-0.0111852724043
+"category/Trains"	-0.0111981566327
+"category/Counseling & Mental Health"	-0.011275258207
+"cities/Green Valley"	-0.0113098383377
+"category/Filipino"	-0.0113383354959
+"cities/Boulder City"	-0.0114006091338
+"cities/Kitchener"	-0.0114897851995
+"category/Hair Stylists"	-0.0117049462641
+"category/Podiatrists"	-0.0117197686114
+"category/Door Sales/Installation"	-0.0117199330166
+"cities/Enterprise"	-0.0118132675492
+"category/Guns & Ammo"	-0.0118870814932
+"category/Smog Check Stations"	-0.0119592046217
+"cities/Gila Bend"	-0.0119609007739
+"category/Music & DVDs"	-0.0121421625852
+"category/Roofing"	-0.0122744299862
+"cities/Tolleson"	-0.0123969701262
+"category/Tours"	-0.0124883189952
+"category/Colombian"	-0.0125304322978
+"category/Jewelry"	-0.0125375214344
+"category/Diagnostic Imaging"	-0.0125481219481
+"category/Laboratory Testing"	-0.0125535750371
+"category/Trampoline Parks"	-0.0127351183557
+"category/Landscaping"	-0.012754945264
+"cities/Chandler"	-0.0129588306145
+"category/Delicatessen"	-0.0129901051612
+"cities/Apache Junction"	-0.0130051311632
+"category/Street Art"	-0.0130472786914
+"cities/Carefree"	-0.0131073700834
+"category/Beer Garden"	-0.0132102830426
+"category/Gardeners"	-0.0134633996106
+"category/Shanghainese"	-0.0135503966033
+"cities/Concord"	-0.0135664217025
+"category/Financial Advising"	-0.0135785334031
+"category/Session Photography"	-0.0138870425208
+"category/Motorcycle Dealers"	-0.0139050718018
+"category/African"	-0.0140836179142
+"category/Community Service/Non-Profit"	-0.0141359591457
+"category/Shoe Stores"	-0.0142338892462
+"category/Hookah Bars"	-0.0142659110492
+"category/Wineries"	-0.0145124958633
+"category/Wheel & Rim Repair"	-0.014565155119
+"category/Food"	-0.0145844688784
+"category/Security Systems"	-0.0145890572002
+"category/Donuts"	-0.0146755284376
+"category/Tattoo Removal"	-0.0147025114818
+"category/Physical Therapy"	-0.0148955586585
+"category/Amateur Sports Teams"	-0.0149003290414
+"category/Soccer"	-0.0149233219446
+"category/Karaoke"	-0.0149238316301
+"category/Body Shops"	-0.0149923129172
+"category/Belgian"	-0.0149935544542
+"category/Lawyers"	-0.0150819385498
+"category/Television Service Providers"	-0.015178304393
+"category/Personal Shopping"	-0.0152976842179
+"category/Eyelash Service"	-0.0154768482137
+"numReviewsYear/2012"	-0.0155608713856
+"category/Gas & Service Stations"	-0.0156344125135
+"cities/Gilbert"	-0.0159383711855
+"category/RV Parks"	-0.0161114622109
+"category/Venues & Event Spaces"	-0.0161647774532
+"numReviewsYear/2011"	-0.0163402837249
+"category/Nail Salons"	-0.0164127683036
+"category/Painters"	-0.0167617052668
+"category/Religious Organizations"	-0.0167627379387
+"category/Printing Services"	-0.0167992286819
+"category/Himalayan/Nepalese"	-0.0168791406955
+"category/Meat Shops"	-0.016912627081
+"category/Ophthalmologists"	-0.01691438516
+"category/Watches"	-0.0171891611776
+"category/Food Court"	-0.0172801863394
+"category/Vinyl Records"	-0.0174557104483
+"numReviewsYear/2007"	-0.017498064109
+"category/Photographers"	-0.0175602249379
+"category/Flooring"	-0.0176734253541
+"category/Recreation Centers"	-0.017752589169
+"category/Couriers & Delivery Services"	-0.017825923402
+"numReviews/3stars"	-0.0178592353662
+"category/Fondue"	-0.0179146605796
+"category/Caterers"	-0.0179238791501
+"category/Movers"	-0.0180085129605
+"category/Pool Cleaners"	-0.0181066929997
+"category/Diagnostic Services"	-0.0181138379039
+"category/Sushi Bars"	-0.0181553345006
+"category/Print Media"	-0.0183346314959
+"category/Polish"	-0.0183965850046
+"category/Luggage"	-0.0185472937336
+"category/Colleges & Universities"	-0.018596709613
+"category/Children's Clothing"	-0.0187308943079
+"cities/Stallings"	-0.0188382660423
+"category/Real Estate Agents"	-0.0189108549615
+"category/Financial Services"	-0.0190490343944
+"category/Halal"	-0.0194499170737
+"category/Departments of Motor Vehicles"	-0.0194655506807
+"category/Electronics Repair"	-0.0194683336082
+"category/Professional Sports Teams"	-0.0195831938663
+"category/Garage Door Services"	-0.0196296845589
+"category/Carpeting"	-0.0196468370124
+"category/Churches"	-0.0197727706236
+"category/Scottish"	-0.0198217988633
+"category/Dry Cleaning & Laundry"	-0.0199039362185
+"category/Bookstores"	-0.0202794358017
+"yelpingYear/2006"	-0.0205567950815
+"category/Arabian"	-0.0209182467478
+"numReviewsYear/2009"	-0.0209902548309
+"numReviewsYear/2013"	-0.0212322971222
+"category/Malaysian"	-0.0214608648918
+"category/Bistros"	-0.0219660795276
+"category/Pest Control"	-0.0220923404302
+"category/Leisure Centers"	-0.0222324107109
+"category/Graphic Design"	-0.0222445689132
+"category/Portuguese"	-0.0223954067284
+"complimentsFansRatio/profile"	-0.0224664154545
+"category/Lakes"	-0.0226232139315
+"category/Contractors"	-0.0227365021955
+"category/Cajun/Creole"	-0.0228183782569
+"category/Internet Cafes"	-0.0229417501467
+"category/Landmarks & Historical Buildings"	-0.0233392755792
+"category/Shoe Repair"	-0.0235516452443
+"cities/Indian Trail"	-0.0236532524173
+"category/Shipping Centers"	-0.0239778114793
+"cities/Litchfield Park"	-0.02407929059
+"cities/Avondale"	-0.0241281196594
+"category/Cards & Stationery"	-0.024287708893
+"category/Lingerie"	-0.0242961737918
+"cities/Sun City"	-0.0243947579181
+"category/Heating & Air Conditioning/HVAC"	-0.0244822507258
+"category/Mass Media"	-0.0245025798768
+"numReviews/2stars"	-0.0246889895543
+"category/Keys & Locksmiths"	-0.0247406898782
+"category/Comic Books"	-0.0250393307685
+"category/Russian"	-0.0251691508671
+"category/Real Estate Services"	-0.02529042918
+"category/Coffeeshops"	-0.0253485546184
+"complimentsFansRatio/plain"	-0.0256137719968
+"cities/Wickenburg"	-0.0256788630224
+"category/Party Supplies"	-0.0258825997725
+"category/Taxis"	-0.0264676061911
+"category/Ramen"	-0.0264801643794
+"numReviewsYear/2010"	-0.0267283225329
+"category/Hair Extensions"	-0.0269403975217
+"category/Reflexology"	-0.0277130701445
+"category/Mobile Phone Repair"	-0.0278137212461
+"category/Pawn Shops"	-0.0279394562613
+"category/Nurseries & Gardening"	-0.0282958918686
+"category/Active Life"	-0.0285106616804
+"category/Middle Eastern"	-0.0285888146457
+"cities/Fort Mill"	-0.028636976304
+"category/Kosher"	-0.0286561576719
+"category/Soul Food"	-0.0290292064849
+"category/Fish & Chips"	-0.0292009210161
+"numReviewsYear/2008"	-0.0301841258704
+"category/Dim Sum"	-0.0310244142398
+"category/Massage"	-0.0312135056453
+"category/Appliances"	-0.0312405923384
+"category/Sports Bars"	-0.0314661797135
+"category/Tex-Mex"	-0.0315385395818
+"numReviewsYear/2005"	-0.031630884931
+"category/Cosmetics & Beauty Supply"	-0.0317582007586
+"category/Moroccan"	-0.0320902368829
+"category/Newspapers & Magazines"	-0.0322042403657
+"category/Ticket Sales"	-0.0328132553864
+"category/Carpet Cleaning"	-0.0329541469744
+"category/Insurance"	-0.0338053785287
+"category/Cheesesteaks"	-0.0343106290534
+"category/Auto Repair"	-0.0344237621883
+"category/Museums"	-0.0344478164909
+"category/Afghan"	-0.0344823972698
+"category/Women's Clothing"	-0.0347325553582
+"category/Vape Shops"	-0.0349236021912
+"category/Tapas Bars"	-0.0350778764658
+"category/Train Stations"	-0.035781744594
+"category/Gun/Rifle Ranges"	-0.0370117215623
+"category/Venezuelan"	-0.0388777959832
+"category/Golf"	-0.039203101326
+"category/Outdoor Gear"	-0.0406989028286
+"category/Professional Services"	-0.0407610822546
+"category/Leather Goods"	-0.0411209140448
+"category/Diners"	-0.0411237525435
+"category/Appliances & Repair"	-0.0411785893613
+"category/Vietnamese"	-0.0417546940955
+"cities/Pineville"	-0.0419041588669
+"category/Computers"	-0.0419120249741
+"category/Comfort Food"	-0.0422719995747
+"cities/Goodyear"	-0.0423795353603
+"cities/Queen Creek"	-0.042601230327
+"category/Botanical Gardens"	-0.0432963210862
+"category/Notaries"	-0.043522892081
+"category/Travel Services"	-0.0440460847601
+"category/Accessories"	-0.0448027327313
+"category/German"	-0.045031877725
+"category/Hardware Stores"	-0.0452501085308
+"category/Ethnic Food"	-0.0455189028871
+"category/Mediterranean"	-0.0478030797994
+"category/Swimming Pools"	-0.0488194919451
+"category/IT Services & Computer Repair"	-0.0504909368838
+"category/Greek"	-0.0521278374974
+"category/Barbeque"	-0.0533083100659
+"category/Chinese"	-0.0542184898253
+"category/Delis"	-0.0581163969581
+"category/Brasseries"	-0.0590917060732
+"category/Vacation Rentals"	-0.0618649596014
+"cities/Matthews"	-0.0623355506653
+"yelpingYear/2015"	-0.0626278131834
+"category/Cantonese"	-0.0665669364
+"category/Chicken Wings"	-0.0672803789584
+"truediv"	-0.0700473192655
+"category/Italian"	-0.0701782361181
+"cities/Glendale"	-0.0713186630837
+"category/Seafood"	-0.0760423626726
+"category/Cuban"	-0.0764260151271
+"category/Peruvian"	-0.0770917894127
+"category/Car Rental"	-0.0780457842222
+"cities/Scottsdale"	-0.078837343718
+"cities/Surprise"	-0.0814066502595
+"cities/Karlsruhe"	-0.0833508875949
+"category/Seafood Markets"	-0.0891227497589
+"category/Pakistani"	-0.0907499541608
+"category/Thai"	-0.0975337735545
+"category/Chocolatiers & Shops"	-0.0976353747763
+"category/Indian"	-0.0977096090072
+"cities/Peoria"	-0.0989898488706
+"category/Local Services"	-0.101412624892
+"category/Casinos"	-0.103422120751
+"fansFriendsRatio"	-0.118919414505
+"cities/Mesa"	-0.124136246871
+"numReviews/1stars"	-0.124845160295
+"category/Brazilian"	-0.125459771036
+"category/Health & Medical"	-0.130104687614
+"cities/North Las Vegas"	-0.1307314385
+"category/Shopping"	-0.131116269295
+"category/Automotive"	-0.135517116873
+"votesReviewsRatio/funny"	-0.135988895179
+"cities/Charlotte"	-0.137194064426
+"cities/Edinburgh"	-0.15499038505
+"category/Home Services"	-0.168092670786
+"category/Beauty & Spas"	-0.177451027895
+"category/Restaurants"	-0.187909830916
+"complimentsFansRatio/cute"	-0.202900108891
+"cities/Phoenix"	-0.311018563265
+"complimentsFansRatio/funny"	-0.314635839383
+"yelpingYear/2007"	-0.316316365967
+"complimentsFansRatio/photos"	-0.327857760184
+"yelpingYear/2008"	-0.367470787499
+"yelpingYear/2009"	-0.37383664589
+"cities/Las Vegas"	-0.374770789821
+"cities/Henderson"	-0.385649472311
+"yelpingYear/2010"	-0.422552113636
+"yelpingYear/2011"	-0.564506494419
+"yelpingYear/2012"	-0.627072214734
+"yelpingYear/2013"	-0.851450797491
+"yelpingYear/2014"	-0.977083020057
+"constant"	-4.54785810833
